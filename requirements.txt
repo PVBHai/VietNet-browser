@@ -3,6 +3,4 @@ nltk
 wn
 pandas
 numpy
-sqlite3
-os
 rapidfuzz
