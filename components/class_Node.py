@@ -1,7 +1,13 @@
+from components.utils_search import get_viet_info_from_synset
+
 class Node:
     def __init__(self, synset, recursive_level=0):
+        search_result = get_viet_info_from_synset(synset.id)
+
         self._synset = synset
-        # self._lemmas = ', '.join(lemma.name() for lemma in synset.lemmas())
+        self._viet_lemmas = search_result['viet_word']
+        self._viet_definition = search_result['viet_definition']
+        self._viet_example = search_result['viet_example']
         self._lemmas = ', '.join(lemma for lemma in synset.lemmas())
         self._definition = synset.definition()
         self._example = synset.examples()

@@ -99,7 +99,6 @@ def nodefamily_to_cytoscape_elements(nodes, parent_id=None, elements=None, seen=
         else:
             node_id = f"n{len(seen)}"
             seen[synset_id] = node_id
-            # lemmas_label = ', '.join([l.name() for l in node._synset.lemmas()])
             lemmas_label = ', '.join(node._synset.lemmas())
             label = f"{synset_id}\n{lemmas_label}"
             elements.append({
