@@ -6,6 +6,7 @@ from components.utils_wn import *
 from components.utils_search import *
 from components.utils_display import *
 # from components.class_Node import *
+from components.utils_search import *
 from components.class_NodeFamily import *
 import streamlit.components.v1 as components
 
@@ -20,7 +21,14 @@ import sqlite3
 
 # ------------- UI ------------- #
 st.set_page_config(layout="wide")
-st.title("🌐 Trình tra cứu WordNet")
+st.title("🌐 Trình tra cứu VietNet")
+st.markdown("""
+    Đây là công trình nghiên cứu của nhóm nghiên cứu thuộc Trung tâm Ngôn ngữ học Tính toán (CLC)
+    - PGS. TS. Đinh Điền
+    - ThS. Phan Thị Mỹ Trang
+    - Phan Văn Bá Hải
+    - Đỗ Quốc Trí
+""")
 
 # Tạo 3 cột cho ba input hàng ngang
 col1, col2, col3 = st.columns([1.5, 1, 1.5])
@@ -36,10 +44,13 @@ word = st.text_input("🔍 Nhập từ cần tìm:")
 
 if word:
     lexicon = wn.Wordnet('oewn:2024')
-    synsets = lexicon.synsets(word, pos='n')
+    # synsets = lexicon.synsets(word, pos='n')
+    synsets, search_message = search_function(word, lexicon)
 
-    if not synsets:
-        st.text('Từ bạn tìm không tồn tại !!!')
+    # if not synsets:
+        # st.text('Từ bạn tìm không tồn tại !!!')
+    if search_message:
+        st.text(search_message)
         pass
 
     else:

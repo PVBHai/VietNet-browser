@@ -14,10 +14,12 @@ def render_details_tree(data, level=0):
     <div class="tree-line"></div>
     <details>
         <summary>
-            <strong>Lv{node._level + 1}</strong>. {node._lemmas} <strong>({node._synset.id})</strong>
+            <strong>Lv{node._level + 1}</strong>. 🇻🇳 {node._viet_lemmas} || 🇬🇧 {node._lemmas} <strong>({node._synset.id})</strong>
         </summary>
-        <div class="node-extra">📖 Định nghĩa: {node._definition}</div>
-        <div class="node-extra">💬 Ví dụ: {node._example}</div>
+        <div class="node-extra">🇻🇳 Định nghĩa: {node._viet_definition}</div>
+        <div class="node-extra">📖 Definitions: {node._definition}</div>
+        <div class="node-extra">🇻🇳 Ví dụ: {node._viet_example}</div>
+        <div class="node-extra">💬 Examples: {node._example}</div>
 '''.strip()
 
         if has_children:
@@ -99,7 +101,11 @@ def nodefamily_to_cytoscape_elements(nodes, parent_id=None, elements=None, seen=
         else:
             node_id = f"n{len(seen)}"
             seen[synset_id] = node_id
-            lemmas_label = ', '.join(node._synset.lemmas())
+            # Nếu lemmas tiếng Việt có, dùng nó, nếu không thì dùng lemmas tiếng Anh
+            if node._viet_lemmas:
+                lemmas_label = node._viet_lemmas
+            elif node._lemmas:
+                lemmas_label = node._lemmas
             label = f"{synset_id}\n{lemmas_label}"
             elements.append({
                 "data": {"id": node_id, "label": label},
