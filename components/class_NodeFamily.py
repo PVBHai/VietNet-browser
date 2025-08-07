@@ -18,6 +18,9 @@ class NodeFamily:
             node = Node(syn, level)
             children_synsets = get_relationships(syn, self.relationship_type)
             node.children = self._build_tree(children_synsets, level + 1)
-            node_list.append(node)
+            
+            # Giữ tiếng Việt
+            if node._viet_lemmas is not None:     
+                node_list.append(node)
         return node_list
 
