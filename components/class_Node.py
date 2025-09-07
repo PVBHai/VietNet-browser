@@ -1,8 +1,8 @@
 from components.utils_search import get_viet_info_from_synset
 
 class Node:
-    def __init__(self, synset, recursive_level=0):
-        search_result = get_viet_info_from_synset(synset.id)
+    def __init__(self, synset, folder_path, recursive_level=0):
+        search_result = get_viet_info_from_synset(synset.id, folder_path)
 
         self._synset = synset
         self._viet_lemmas = search_result['viet_word']

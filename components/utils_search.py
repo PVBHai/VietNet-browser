@@ -9,7 +9,9 @@ import numpy as np
 # 2. message
 # | None => Search thành công
 # | string => Search không thành công, trả về message
-def search_function(user_input, lexicon, db_path='data/vietnet_data/VIETNET.db'):
+def search_function(user_input, lexicon, folder_path):
+    db_path = folder_path + '/VIETNET.db'
+    
     # Nếu người dùng nhập synset_id
     if "oewn-" in user_input:
         ssid = user_input.strip()
@@ -20,14 +22,14 @@ def search_function(user_input, lexicon, db_path='data/vietnet_data/VIETNET.db')
         
     result = []
     # 1. Tìm tiếng Việt
-    temp = exact_search_vietnet_search(user_input, db_path)
+    temp = exact_search_vietnet_search(user_input, folder_path)
     result += [lexicon.synset(ssid) for ssid in temp]
     # 2. Tìm tiếng Anh
     result += lexicon.synsets(user_input, pos='n')
 
     # Nếu không tìm thấy synset nào
     if not result:
-        recommended_search = fuzzy_search_vietnet_search(user_input, db_path)
+        recommended_search = fuzzy_search_vietnet_search(user_input, folder_path)
         suggestion = ' | '.join(recommended_search[:5])
         return [], f"Bạn hãy thử tìm các từ sau: {suggestion}"
     else:
@@ -43,7 +45,8 @@ def normalize(text):
 
 # Hàm này để tìm từ gợi ý
 # => Trả về [word, ...]
-def fuzzy_search_vietnet_search(user_input, db_path='data/vietnet_data/VIETNET.db', threshold=80):
+def fuzzy_search_vietnet_search(user_input, folder_path, threshold=80):
+    db_path = folder_path + '/VIETNET.db'
     query = normalize(user_input)
     
     conn = sqlite3.connect(db_path)
@@ -64,7 +67,8 @@ def fuzzy_search_vietnet_search(user_input, db_path='data/vietnet_data/VIETNET.d
 
 # Hàm để tìm kiếm từ tiếng Việt 
 # => Trả về [synset_id, ...]
-def exact_search_vietnet_search(user_input, db_path='data/vietnet_data/VIETNET.db'):
+def exact_search_vietnet_search(user_input, folder_path):
+    db_path = folder_path + '/VIETNET.db'
     query = normalize(user_input)
 
     conn = sqlite3.connect(db_path)
@@ -82,7 +86,8 @@ def exact_search_vietnet_search(user_input, db_path='data/vietnet_data/VIETNET.d
 # Hàm để tìm các thông tin tiếng Việt từ synset_id 
 # (các cột có thể tìm 'viet_word', 'viet_definition', 'viet_example')
 # => Trả về chuỗi tiếng Việt hoặc None nếu không tìm thấy
-def get_viet_info_from_synset(synset_id, db_path='data/vietnet_data/VIETNET.db'):
+def get_viet_info_from_synset(synset_id, folder_path):
+    db_path = folder_path + '/VIETNET.db'
     conn = sqlite3.connect(db_path)
     df_search = pd.read_sql_query(f"SELECT * FROM VIETNET_DATA WHERE synset_id = ?", conn, params=(synset_id,))
     conn.close()
