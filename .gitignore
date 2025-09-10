@@ -180,6 +180,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-data/
-!data/vietnet_data/
-!data/vietnet_data/VIETNET.db
+data/**
+!*/VIETNET.db
