@@ -180,5 +180,8 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-data/**
-!*/VIETNET.db
+data/downloads
+data/vietnet_data_v1/VietNet_data.csv
+data/vietnet_data_v1/VietNet_data.xlsx
+data/vietnet_data_v2/VietNet_data.xlsx
+data/wn.db
