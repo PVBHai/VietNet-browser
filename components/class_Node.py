@@ -8,6 +8,7 @@ class Node:
         self._viet_lemmas = search_result['viet_word']
         self._viet_definition = search_result['viet_definition']
         self._viet_example = search_result['viet_example']
+        self._is_same = search_result['is_same']
         self._lemmas = ', '.join(lemma for lemma in synset.lemmas())
         self._definition = synset.definition()
         self._example = synset.examples()

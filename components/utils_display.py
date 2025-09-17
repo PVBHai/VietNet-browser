@@ -8,18 +8,21 @@ def render_details_tree(data, level=0):
 
     for node in data:
         has_children = isinstance(node.children, list) and bool(node.children)
+        
+        # Xác định class CSS dựa trên is_same
+        text_class = "red-text" if not node._is_same else ""
 
         html += f'''
 <div class="tree-node" style="margin-left:{indent_px}px;">
     <div class="tree-line"></div>
     <details>
-        <summary>
+        <summary class="{text_class}">
             <strong>Lv{node._level + 1}</strong>. 🇻🇳 {node._viet_lemmas} || 🇬🇧 {node._lemmas} <strong>({node._synset.id})</strong>
         </summary>
-        <div class="node-extra">🇻🇳 Định nghĩa: {node._viet_definition}</div>
-        <div class="node-extra">📖 Definitions: {node._definition}</div>
-        <div class="node-extra">🇻🇳 Ví dụ: {node._viet_example}</div>
-        <div class="node-extra">💬 Examples: {node._example}</div>
+        <div class="node-extra {text_class}">🇻🇳 Định nghĩa: {node._viet_definition}</div>
+        <div class="node-extra {text_class}">📖 Definitions: {node._definition}</div>
+        <div class="node-extra {text_class}">🇻🇳 Ví dụ: {node._viet_example}</div>
+        <div class="node-extra {text_class}">💬 Examples: {node._example}</div>
 '''.strip()
 
         if has_children:
@@ -79,6 +82,10 @@ def get_tree_view_css():
         padding-top: 4px;
     }
 
+    .red-text {
+        color: #ff0000 !important;
+    }
+
     </style>
     """
 
@@ -107,9 +114,15 @@ def nodefamily_to_cytoscape_elements(nodes, parent_id=None, elements=None, seen=
             elif node._lemmas:
                 lemmas_label = node._lemmas
             label = f"{synset_id}\n{lemmas_label}"
+            
+            # Xác định class CSS dựa trên is_same
+            node_classes = "wordnode"
+            if not node._is_same:
+                node_classes += " red-node"
+            
             elements.append({
                 "data": {"id": node_id, "label": label},
-                "classes": "wordnode"
+                "classes": node_classes
             })
 
         # Thêm edge nếu chưa có trong added_edges
@@ -171,6 +184,15 @@ def render_cytoscape(elements):
                             'text-wrap': 'wrap',
                             'text-max-width': 80,
                             'grabbable': false
+                        }}
+                    }},
+                    {{
+                        selector: '.red-node',
+                        style: {{
+                            'background-color': '#ffcccc',
+                            'color': '#ff0000',
+                            'border-color': '#ff0000',
+                            'border-width': 2
                         }}
                     }},
                     {{

@@ -84,11 +84,18 @@ def exact_search_vietnet_search(user_input, folder_path):
 
 
 # Hàm để tìm các thông tin tiếng Việt từ synset_id 
-# (các cột có thể tìm 'viet_word', 'viet_definition', 'viet_example')
+# (các cột có thể tìm 'viet_word', 'viet_definition', 'viet_example', 'is_same')
 # => Trả về chuỗi tiếng Việt hoặc None nếu không tìm thấy
 def get_viet_info_from_synset(synset_id, folder_path):
     db_path = folder_path + '/VIETNET.db'
     conn = sqlite3.connect(db_path)
+    
+    # Kiểm tra xem cột is_same có tồn tại không
+    cursor = conn.cursor()
+    cursor.execute("PRAGMA table_info(VIETNET_DATA)")
+    columns = cursor.fetchall()
+    has_is_same_column = any(col[1] == 'is_same' for col in columns)
+    
     df_search = pd.read_sql_query(f"SELECT * FROM VIETNET_DATA WHERE synset_id = ?", conn, params=(synset_id,))
     conn.close()
     
@@ -108,18 +115,27 @@ def get_viet_info_from_synset(synset_id, folder_path):
         for i in range(len(examples_list)):
             if examples_list[i] is not None:
                 examples += f"{ex_count+1}. {examples_list[i]} | "
-                ex_count += 1            
+                ex_count += 1
+        
+        # is_same - chỉ lấy nếu cột tồn tại, nếu không thì mặc định True
+        if has_is_same_column and 'is_same' in df_search.columns:
+            is_same = bool(df_search['is_same'].iloc[0]) if not df_search['is_same'].empty else True
+        else:
+            is_same = True  # Mặc định True cho database v1 không có cột is_same
+        
         # Trả về
         return {
             'viet_word': lemmas,
             'viet_definition': definitions,
-            'viet_example': examples
+            'viet_example': examples,
+            'is_same': is_same
         }
     else:
         return {
             'viet_word': None,
             'viet_definition': None,
-            'viet_example': None
+            'viet_example': None,
+            'is_same': True  # Mặc định là True nếu không tìm thấy
         }
 
 
