@@ -11,48 +11,74 @@ This project converts Vietnamese lexical data to WordNet Lexical Markup Framewor
 
 ## 📁 Project Files
 
-- **`vietnet_lexicon.xml`** - The main Vietnamese lexicon in WN-LMF 1.3 format (8.2MB)
-- **`create_vietnet_wn_lmf.py`** - Python converter script for regenerating the lexicon
+### Main Lexicon Files
+- **`vietnet_lexicon_with_relations.xml`** - ⭐ **ENHANCED** Vietnamese lexicon with synset relations (9.4MB)
+- **`vietnet_lexicon.xml`** - Basic Vietnamese lexicon without relations (8.2MB)
+
+### Converter Scripts
+- **`create_vietnet_wn_lmf_with_relations.py`** - ⭐ **ENHANCED** converter with synset relations
+- **`create_vietnet_wn_lmf.py`** - Basic converter script
+
+### Data and Documentation
 - **`vietnet_wn_lmf.csv`** - Source Vietnamese lexical data (4.1MB)
-- **`build_vietnet_wn_lmf.ipynb`** - Jupyter notebook with development process and testing
+- **`build_vietnet_wn_lmf.ipynb`** - Jupyter notebook with development process
 - **`README.md`** - This documentation file
 
 ## 📊 Lexicon Statistics
 
 - **Total Vietnamese Words**: 21,517 entries
 - **Total Synsets**: 10,446 synsets
+- **Total Synset Relations**: 16,484 relations ⭐ **NEW**
 - **Language**: Vietnamese (vi)
 - **Format**: WN-LMF 1.3 (compatible with wn library)
 - **English WordNet Mapping**: Via ILI (Inter-Lingual Index)
 
+### Relation Types
+- **hypernym/hyponym**: 13,058 relations (is-a relationships)
+- **meronym/holonym**: 1,026 relations (part-of relationships)  
+- **domain relations**: 1,241 relations (topic/region domains)
+- **other relations**: 1,159 relations (exemplification, etc.)
+
 ## 🚀 Usage
 
-### 1. Using with wn Library
+### 1. Using Enhanced Lexicon with Relations
 
 ```python
 import wn
 
-# The lexicon should already be added to your wn database
-# If not, add it with:
-# wn.add('vietnet_lexicon.xml')
+# Add the enhanced lexicon with relations
+wn.add('vietnet_lexicon_with_relations.xml')
 
 # Search Vietnamese words
 words = wn.words("từ_tiếng_việt", lexicon="vietnet")
 
-# Get synsets
+# Get synsets with relations
 synsets = wn.synsets(lexicon="vietnet")
+for synset in synsets[:5]:
+    print(f"Synset: {synset.id}")
+    print(f"Definition: {synset.definition()}")
+    
+    # Access synset relations
+    relations = synset.relations()
+    for rel_type, targets in relations.items():
+        print(f"  {rel_type}: {len(targets)} targets")
+        for target in targets[:2]:
+            print(f"    -> {target.id}: {target.definition()[:50]}...")
 
-# Access lexicon info
-lexicons = wn.lexicons()  # vietnet will be in the list
+# Find hypernyms (broader concepts)
+synset = wn.synset('vietnet-00000004-n', lexicon='vietnet')
+hypernyms = synset.hypernyms()  # More general concepts
+hyponyms = synset.hyponyms()    # More specific concepts
 ```
 
 ### 2. Regenerating the Lexicon
 
 ```bash
-# Run the converter script
-python create_vietnet_wn_lmf.py
+# Generate enhanced lexicon with relations
+python create_vietnet_wn_lmf_with_relations.py
 
-# This will create a new vietnet_lexicon.xml file
+# Generate basic lexicon without relations  
+python create_vietnet_wn_lmf.py
 ```
 
 ### 3. Testing
