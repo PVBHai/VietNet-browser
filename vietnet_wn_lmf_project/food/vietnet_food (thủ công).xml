@@ -55,6 +55,435 @@
     <Synset id="vietnet-food-99999976-n" ili="">
       <Definition>sản phẩm nông nghiệp, như gạo, thịt, trứng, rau, hoa quả, v.v. [nói khái quát]</Definition>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000008-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999965-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999964-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999963-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999962-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999961-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000101-n"/>
+    </Synset>
+    <!-- *******{Lv4. súc sản}******** -->
+    <LexicalEntry id="vietnet-food-99999959">
+      <Lemma writtenForm="súc sản" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999959-1" synset="vietnet-food-99999960-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999960-n" ili="">
+      <Definition>sản phẩm thịt gia súc</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999976-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999939-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999959-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999958-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999957-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999956-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999955-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999954-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999953-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999952-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999951-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999950-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999949-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999948-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999947-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999946-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999945-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999944-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999943-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999942-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999941-n"/>
+    </Synset>
+    <!-- *******{Lv5. cầy}******** -->
+    <LexicalEntry id="vietnet-food-99999953">
+      <Lemma writtenForm="cầy" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999953-1" synset="vietnet-food-99999939-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999939-n" ili="">
+      <Definition>chó, về mặt để ăn thịt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. giò}******** -->
+    <LexicalEntry id="vietnet-food-99999952">
+      <Lemma writtenForm="giò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999952-1" synset="vietnet-food-99999959-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999959-n" ili="">
+      <Definition>chó, về mặt để ăn thịt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. nạc}******** -->
+    <LexicalEntry id="vietnet-food-99999951">
+      <Lemma writtenForm="nạc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999951-1" synset="vietnet-food-99999958-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999958-n" ili="">
+      <Definition>thịt không có mỡ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. thăn}******** -->
+    <LexicalEntry id="vietnet-food-99999950">
+      <Lemma writtenForm="thăn" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999950-1" synset="vietnet-food-99999957-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999957-n" ili="">
+      <Definition>phần thịt toàn nạc được lọc ra ở phần lưng của súc vật khi mổ thịt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. nọng}******** -->
+    <LexicalEntry id="vietnet-food-99999949">
+      <Lemma writtenForm="nọng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999949-1" synset="vietnet-food-99999956-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999956-n" ili="">
+      <Definition>khoanh thịt cắt ra ở cổ gia súc giết thịt [thường là trâu, bò, lợn]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. ba chỉ, ba rọi}******** -->
+    <LexicalEntry id="vietnet-food-99999948">
+      <Lemma writtenForm="ba chỉ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999948-1" synset="vietnet-food-99999955-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999947">
+      <Lemma writtenForm="ba rọi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999947-1" synset="vietnet-food-99999955-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999955-n" ili="">
+      <Definition>phần thịt lợn ở vùng bụng, có ba thớ nạc xen với mỡ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. chân giò, cẳng giò}******** -->
+    <LexicalEntry id="vietnet-food-99999946">
+      <Lemma writtenForm="chân giò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999946-1" synset="vietnet-food-99999954-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999945">
+      <Lemma writtenForm="cẳng giò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999945-1" synset="vietnet-food-99999954-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999954-n" ili="">
+      <Definition>chân lợn đã làm thịt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. móng giò}******** -->
+    <LexicalEntry id="vietnet-food-99999944">
+      <Lemma writtenForm="móng giò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999944-1" synset="vietnet-food-99999953-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999953-n" ili="">
+      <Definition>đoạn ngắn của chân giò lợn từ khuỷu đến các móng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. sấn}******** -->
+    <LexicalEntry id="vietnet-food-99999943">
+      <Lemma writtenForm="sấn" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999943-1" synset="vietnet-food-99999952-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999952-n" ili="">
+      <Definition>phần thịt có nạc nằm trên mỡ phần ở lưng, mông và vai lợn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. nây}******** -->
+    <LexicalEntry id="vietnet-food-99999942">
+      <Lemma writtenForm="nây" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999942-1" synset="vietnet-food-99999951-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999951-n" ili="">
+      <Definition>thịt mỡ bèo nhèo ở bụng lợn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. nầm}******** -->
+    <LexicalEntry id="vietnet-food-99999941">
+      <Lemma writtenForm="nầm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999941-1" synset="vietnet-food-99999950-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999950-n" ili="">
+      <Definition>phần thịt ở giữa bụng lợn, trâu, bò, v.v.</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. bì}******** -->
+    <LexicalEntry id="vietnet-food-99999940">
+      <Lemma writtenForm="bì" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999940-1" synset="vietnet-food-99999949-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999949-n" ili="">
+      <Definition>da của lợn, bò, v.v. dùng làm thức ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. nạm}******** -->
+    <LexicalEntry id="vietnet-food-99999939">
+      <Lemma writtenForm="bì" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999939-1" synset="vietnet-food-99999948-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999948-n" ili="">
+      <Definition>thịt ở sườn bò, có lẫn cả gân</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. gàu}******** -->
+    <LexicalEntry id="vietnet-food-99999938">
+      <Lemma writtenForm="gàu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999938-1" synset="vietnet-food-99999947-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999947-n" ili="">
+      <Definition>thịt có lẫn mỡ ở ngực bò</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. lòng}******** -->
+    <LexicalEntry id="vietnet-food-99999937">
+      <Lemma writtenForm="lòng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999937-1" synset="vietnet-food-99999946-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999946-n" ili="">
+      <Definition>những bộ phận trong bụng của con vật giết thịt, dùng làm thức ăn [nói tổng quát]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999940-n"/>
+    </Synset>
+    <!-- *******{Lv6. lòng}******** -->
+    <LexicalEntry id="vietnet-food-99999930">
+      <Lemma writtenForm="lòng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999930-1" synset="vietnet-food-99999940-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999940-n" ili="">
+      <Definition>ruột lợn, dùng làm thức ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999946-n"/>
+    </Synset>
+    <!-- *******{Lv5. phèo}******** -->
+    <LexicalEntry id="vietnet-food-99999936">
+      <Lemma writtenForm="phèo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999936-1" synset="vietnet-food-99999945-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999945-n" ili="">
+      <Definition>ruột non</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. tràng}******** -->
+    <LexicalEntry id="vietnet-food-99999935">
+      <Lemma writtenForm="tràng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999935-1" synset="vietnet-food-99999944-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999944-n" ili="">
+      <Definition>dạ con của một số động vật, về mặt là thực phẩm</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. tiết}******** -->
+    <LexicalEntry id="vietnet-food-99999934">
+      <Lemma writtenForm="tiết" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999934-1" synset="vietnet-food-99999943-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999943-n" ili="">
+      <Definition>máu của một số loài động vật có xương sống, được dùng làm món ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. bóng bì}******** -->
+    <LexicalEntry id="vietnet-food-99999933">
+      <Lemma writtenForm="bóng bì" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999933-1" synset="vietnet-food-99999942-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999942-n" ili="">
+      <Definition>bì lợn phơi khô, rán phồng, dùng chế biến làm món ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv5. bạc nhạc, bạc nhạng}******** -->
+    <LexicalEntry id="vietnet-food-99999932">
+      <Lemma writtenForm="bạc nhạc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999932-1" synset="vietnet-food-99999941-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999931">
+      <Lemma writtenForm="bạc nhạng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999931-1" synset="vietnet-food-99999941-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999941-n" ili="">
+      <Definition>thịt chỉ có màng dai không có nạc [thường là thịt bò, thịt trâu]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999960-n"/>
+    </Synset>
+    <!-- *******{Lv4. tù và}******** -->
+    <LexicalEntry id="vietnet-food-99999958">
+      <Lemma writtenForm="tù và" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999958-1" synset="vietnet-food-99999964-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999964-n" ili="">
+      <Definition>dạ dày ếch, dùng làm món ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999976-n"/>
+    </Synset>
+    <!-- *******{Lv4. phao câu}******** -->
+    <LexicalEntry id="vietnet-food-99999957">
+      <Lemma writtenForm="phao câu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999957-1" synset="vietnet-food-99999963-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999963-n" ili="">
+      <Definition>mẩu thịt có mỡ và xương mềm ở cuống đuôi các loài chim [thường là các loại gia cầm]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999976-n"/>
+    </Synset>
+    <!-- *******{Lv4. nấm}******** -->
+    <LexicalEntry id="vietnet-food-99999956">
+      <Lemma writtenForm="nấm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999956-1" synset="vietnet-food-99999962-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999962-n" ili="">
+      <Definition>thực vật bậc thấp không có diệp lục, sống trên chất hữu cơ mục nát hoặc kí sinh trên các sinh vật, một số loài ăn được</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999976-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999938-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999937-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999936-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999935-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999934-n"/>
+    </Synset>
+    <!-- *******{Lv5. nấm hương}******** -->
+    <LexicalEntry id="vietnet-food-99999929">
+      <Lemma writtenForm="nấm hương" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999929-1" synset="vietnet-food-99999938-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999938-n" ili="">
+      <Definition>nấm có mũ, mùi thơm, mọc trên các cây gỗ mục trong rừng, ăn được</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999962-n"/>
+    </Synset>
+    <!-- *******{Lv5. nấm mỡ}******** -->
+    <LexicalEntry id="vietnet-food-99999928">
+      <Lemma writtenForm="nấm mỡ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999928-1" synset="vietnet-food-99999937-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999937-n" ili="">
+      <Definition>nấm có mũ màu trắng hồng, thường mọc trên đất bón phân hữu cơ, ăn được</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999962-n"/>
+    </Synset>
+    <!-- *******{Lv5. nấm rơm}******** -->
+    <LexicalEntry id="vietnet-food-99999927">
+      <Lemma writtenForm="nấm rơm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999927-1" synset="vietnet-food-99999936-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999936-n" ili="">
+      <Definition>nấm có mũ màu xám nhạt, mọc ở các đống rơm rạ mục nát, ăn được</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999962-n"/>
+    </Synset>
+    <!-- *******{Lv5. nấm mèo, mộc nhĩ}******** -->
+    <LexicalEntry id="vietnet-food-99999926">
+      <Lemma writtenForm="nấm mèo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999926-1" synset="vietnet-food-99999935-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999925">
+      <Lemma writtenForm="mộc nhĩ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999925-1" synset="vietnet-food-99999935-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999935-n" ili="">
+      <Definition>nấm giống hình cái tai, màu nâu đen, thường mọc ở thân cây gỗ mục, dùng làm thức ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999962-n"/>
+    </Synset>
+    <!-- *******{Lv5. nấm sò}******** -->
+    <LexicalEntry id="vietnet-food-99999924">
+      <Lemma writtenForm="nấm sò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999924-1" synset="vietnet-food-99999934-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999934-n" ili="">
+      <Definition>nấm mỡ hình dáng giống như cái vỏ sò</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999962-n"/>
+    </Synset>
+    <!-- *******{Lv4. hột, trứng}******** -->
+    <LexicalEntry id="vietnet-food-99999955">
+      <Lemma writtenForm="hột" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999955-1" synset="vietnet-food-99999961-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999954">
+      <Lemma writtenForm="trứng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999954-1" synset="vietnet-food-99999961-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999961-n" ili="oewn-07856780-n">
+      <Definition>trứng gà hoặc trứng vịt [nói tắt]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999976-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999933-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999932-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999931-n"/>
+    </Synset>
+    <!-- *******{Lv5. trứng lộn}******** -->
+    <LexicalEntry id="vietnet-food-99999923">
+      <Lemma writtenForm="trứng lộn" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999923-1" synset="vietnet-food-99999933-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999933-n" ili="">
+      <Definition>trứng [thường là trứng vịt] đã ấp dở, bắt đầu thành hình con, dùng để làm món ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999961-n"/>
+    </Synset>
+    <!-- *******{Lv5. lòng đỏ, tròng đỏ}******** -->
+    <LexicalEntry id="vietnet-food-99999922">
+      <Lemma writtenForm="lòng đỏ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999922-1" synset="vietnet-food-99999932-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999921">
+      <Lemma writtenForm="tròng đỏ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999921-1" synset="vietnet-food-99999932-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999932-n" ili="oewn-07857321-n">
+      <Definition>bộ phận giữa quả trứng, màu đỏ vàng</Definition>
+      <Example>lòng đỏ trứng gà</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999961-n"/>
+    </Synset>
+    <!-- *******{Lv5. lòng trắng, tròng trắng}******** -->
+    <LexicalEntry id="vietnet-food-99999920">
+      <Lemma writtenForm="lòng trắng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999920-1" synset="vietnet-food-99999931-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999919">
+      <Lemma writtenForm="tròng trắng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999919-1" synset="vietnet-food-99999931-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999931-n" ili="oewn-07857013-n">
+      <Definition>bộ phận có màu trắng trong suốt bao quanh lòng đỏ trứng</Definition>
+      <Example>lòng trắng trứng</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999961-n"/>
+    </Synset>
+    <!-- *******{Lv4. sữa}******** -->
+    <LexicalEntry id="vietnet-food-00000215">
+      <Lemma writtenForm="sữa" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000215-1" synset="vietnet-food-00000101-n" confidenceScore="0.8"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000101-n" ili="oewn-07860580-n">
+      <Definition>chất đặc có màu trắng đục trong hạt ngũ cốc non</Definition>
+      <Example>lúa đang kì ngậm sữa</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999976-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000106-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000102-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000103-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000107-n"/>
+    </Synset>
+    <!-- *******{Lv5. sữa chua}******** -->
+    <LexicalEntry id="vietnet-food-00000221">
+      <Lemma writtenForm="sữa chua" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000221-1" synset="vietnet-food-00000106-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000106-n" ili="oewn-07865312-n">
+      <Definition>sữa được kết tủa do một loại men đặc biệt, vị hơi chua</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000101-n"/>
+    </Synset>
+    <!-- *******{Lv5. sữa đậu nành}******** -->
+    <LexicalEntry id="vietnet-food-00000216">
+      <Lemma writtenForm="sữa đậu nành" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000216-1" synset="vietnet-food-00000102-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000102-n" ili="oewn-07860843-n">
+      <Definition>thức ăn lỏng, màu trắng đục như sữa, làm bằng đậu nành xay với nước và đun sôi</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000101-n"/>
+    </Synset>
+    <!-- *******{Lv5. sữa tươi}******** -->
+    <LexicalEntry id="vietnet-food-00000217">
+      <Lemma writtenForm="sữa tươi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000217-1" synset="vietnet-food-00000103-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000103-n" ili="oewn-07861142-n">
+      <Definition>sữa bò nguyên chất được tiệt trùng, không qua khâu chế biến</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000101-n"/>
+    </Synset>
+    <!-- *******{Lv5. pho mát, phó mát, phô mai}******** -->
+    <LexicalEntry id="vietnet-food-00000222">
+      <Lemma writtenForm="pho mát" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000222-1" synset="vietnet-food-00000107-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-00000223">
+      <Lemma writtenForm="phó mát" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000223-1" synset="vietnet-food-00000107-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-00000224">
+      <Lemma writtenForm="phô mai" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000224-1" synset="vietnet-food-00000107-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000107-n" ili="oewn-07866305-n">
+      <Definition>món ăn chế biến từ sữa, có dạng khối rắn hoặc dẻo</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000101-n"/>
     </Synset>
     <!-- *******{Lv3. hải sản}******** -->
     <LexicalEntry id="vietnet-food-99999967">
@@ -1048,36 +1477,10 @@
       <Example>hột gà hột vịt lộn</Example>
       <Example>rán trứng chưng trứng mua một chục trứng</Example>
     </Synset>
-    <Synset id="vietnet-food-00000098-n" ili="oewn-07857013-n">
-      <Definition>bộ phận có màu trắng trong suốt bao quanh lòng đỏ trứng</Definition>
-      <Example>lòng trắng trứng</Example>
-    </Synset>
-    <Synset id="vietnet-food-00000099-n" ili="oewn-07857321-n">
-      <Definition>bộ phận giữa quả trứng, màu đỏ vàng</Definition>
-      <Example>lòng đỏ trứng gà</Example>
-    </Synset>
     <Synset id="vietnet-food-00000100-n" ili="oewn-07859612-n">
       <Definition>món ăn làm bằng trứng để nguyên lòng trắng, lòng đỏ, rán chín tới</Definition>
       <Example>bánh mì ốp lết (bánh mì ăn với trứng ốp lết)</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000005-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000101-n" ili="oewn-07860580-n">
-      <Definition>chất đặc có màu trắng đục trong hạt ngũ cốc non</Definition>
-      <Example>lúa đang kì ngậm sữa</Example>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000102-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000102-n" ili="oewn-07860843-n">
-      <Definition>thức ăn lỏng, màu trắng đục như sữa, làm bằng đậu nành xay với nước và đun sôi</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000101-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000103-n" ili="oewn-07861142-n">
-      <Definition>sữa bò nguyên chất được tiệt trùng, không qua khâu chế biến</Definition>
-    </Synset>
-    <Synset id="vietnet-food-00000106-n" ili="oewn-07865312-n">
-      <Definition>sữa được kết tủa do một loại men đặc biệt, vị hơi chua</Definition>
-    </Synset>
-    <Synset id="vietnet-food-00000107-n" ili="oewn-07866305-n">
-      <Definition>món ăn chế biến từ sữa, có dạng khối rắn hoặc dẻo</Definition>
     </Synset>
     <Synset id="vietnet-food-00000108-n" ili="oewn-07872246-n">
       <Definition>thức ăn làm bằng tôm cá sống ướp muối và để lâu ngày cho ngấu</Definition>
@@ -2105,53 +2508,13 @@
       <Lemma writtenForm="trứng" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000210-1" synset="vietnet-food-00000097-n" confidenceScore="1.0"/>
     </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000211">
-      <Lemma writtenForm="lòng trắng" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000211-1" synset="vietnet-food-00000098-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000212">
-      <Lemma writtenForm="lòng đỏ" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000212-1" synset="vietnet-food-00000099-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000213">
-      <Lemma writtenForm="tròng đỏ" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000213-1" synset="vietnet-food-00000099-n" confidenceScore="1.0"/>
-    </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000214">
       <Lemma writtenForm="ốp lết" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000214-1" synset="vietnet-food-00000100-n" confidenceScore="0.8"/>
     </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000215">
-      <Lemma writtenForm="sữa" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000215-1" synset="vietnet-food-00000101-n" confidenceScore="0.8"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000216">
-      <Lemma writtenForm="sữa đậu nành" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000216-1" synset="vietnet-food-00000102-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000217">
-      <Lemma writtenForm="sữa tươi" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000217-1" synset="vietnet-food-00000103-n" confidenceScore="1.0"/>
-    </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000219">
       <Lemma writtenForm="kem kí" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000219-1" synset="vietnet-food-00000104-n" confidenceScore="0.8"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000221">
-      <Lemma writtenForm="sữa chua" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000221-1" synset="vietnet-food-00000106-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000222">
-      <Lemma writtenForm="pho mát" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000222-1" synset="vietnet-food-00000107-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000223">
-      <Lemma writtenForm="phó mát" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000223-1" synset="vietnet-food-00000107-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000224">
-      <Lemma writtenForm="phô mai" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000224-1" synset="vietnet-food-00000107-n" confidenceScore="1.0"/>
     </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000225">
       <Lemma writtenForm="mắm" partOfSpeech="n"/>
