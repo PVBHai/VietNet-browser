@@ -3114,6 +3114,949 @@
       <Definition> từ chỉ từng kiểu thức ăn đã được chế biến theo một cách thức nhất định</Definition>
       <Example> một món ăn cụ thể đã được chế biến</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-99999998-n" />
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000063-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999780-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999724-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000034-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000035-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999708-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999707-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999703-n"/>
+    </Synset>
+    <!-- *******{Lv3. cơm}******** -->
+    <LexicalEntry id="vietnet-food-00000135">
+      <Lemma writtenForm="cơm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000135-1" synset="vietnet-food-00000063-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000063-n" ili="oewn-07820299-n">
+      <Definition>gạo đem nấu chín, ráo nước, dùng làm món chính trong bữa ăn hằng ngày</Definition>
+      <Example>nấu một nồi cơm đầy</Example>
+      <Example>"Sen đặt bát cơm vào khay đưa Nga. Mùi gạo tám thơm ngào ngạt." (Nguyễn Công Hoan; 8)</Example>
+      <Example>giã gạo vo gạo thổi cơm thóc cao gạo kém</Example>
+      <Example>cơm gạo ré</Example>
+      <!-- <Example>gạo tám cơm tám</Example> -->
+      <!-- <Example>thóc tẻ &quot;Đói thì thèm thịt, thèm xôi, Hễ no cơm tẻ, thì thôi mọi đường.&quot; (Cdao)</Example> -->
+      <!-- <Example>thóc gạo đầy nhà tích trữ thóc gạo</Example> -->
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999781-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999782-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999783-n"/>
+    </Synset>
+    <!-- *******{Lv4. cơm rang, cơm chiên}******** -->
+    <LexicalEntry id="vietnet-food-99999700">
+      <Lemma writtenForm="cơm rang" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999700-1" synset="vietnet-food-99999781-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999699">
+      <Lemma writtenForm="cơm chiên" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999699-1" synset="vietnet-food-99999781-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999781-n" ili="oewn-07884316-n">
+      <Definition>cơm để nguội rồi rang lên với dầu hoặc mỡ, có thể cho thêm một số thứ khác như giò, lạp xường, dưa muối, v.v.</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000063-n"/>
+    </Synset>
+    <!-- *******{Lv4. cơm lam}******** -->
+    <LexicalEntry id="vietnet-food-99999698">
+      <Lemma writtenForm="cơm lam" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999698-1" synset="vietnet-food-99999782-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999782-n" ili="">
+      <Definition>cơm nấu bằng cách lam [nấu bằng ống nứa hay ống vầu thay cho nồi]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000063-n"/>
+    </Synset>
+    <!-- *******{Lv4. cơm rượu}******** -->
+    <LexicalEntry id="vietnet-food-99999697">
+      <Lemma writtenForm="cơm rượu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999697-1" synset="vietnet-food-99999783-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999783-n" ili="">
+      <Definition>cơm ủ men, khi lên men có mùi thơm, vị ngọt, dùng để cất rượu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000063-n"/>
+    </Synset>
+    <!-- *******{Lv3. bánh}******** -->
+    <LexicalEntry id="vietnet-food-99999696">
+      <Lemma writtenForm="bánh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999696-1" synset="vietnet-food-99999780-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999780-n" ili="oewn-07679644-n">
+      <Definition>món ăn chín có hình khối nhất định, chế biến bằng bột hoặc gạo, thường có thêm chất ngọt, mặn, béo</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999779-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999778-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999777-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999776-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999775-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999774-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999773-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999772-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999771-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999770-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999769-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999768-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999767-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999766-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999764-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999763-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999762-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999760-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999759-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999758-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999757-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999756-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999755-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999754-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999753-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999752-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999750-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999749-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999748-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999747-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999746-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999745-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999744-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999743-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999742-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999741-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999740-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999739-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999738-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999737-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999735-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999734-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999733-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999732-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999731-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999730-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999729-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999728-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999727-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999726-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999725-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh cáy}******** -->
+    <LexicalEntry id="vietnet-food-99999695">
+      <Lemma writtenForm="bánh cáy" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999695-1" synset="vietnet-food-99999779-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999779-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp rang, trộn với vừng, lạc, gừng, dừa, gấc, mỡ lợn, mạch nha và hương liệu, được đóng thành bánh và có màu giống màu trứng con cáy, ăn có vị ngọt, bùi, cay [một đặc sản của tỉnh Thái Bình]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh chưng}******** -->
+    <LexicalEntry id="vietnet-food-99999694">
+      <Lemma writtenForm="bánh chưng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999694-1" synset="vietnet-food-99999778-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999778-n" ili="">
+      <Definition>bánh làm bằng gạo nếp, có nhân đậu xanh và thịt, thường gói bằng lá dong và có hình vuông, luộc kĩ, làm phổ biến vào dịp Tết Nguyên Đán</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh giầy}******** -->
+    <LexicalEntry id="vietnet-food-99999693">
+      <Lemma writtenForm="bánh giầy" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999693-1" synset="vietnet-food-99999777-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999777-n" ili="">
+      <Definition>bánh làm bằng xôi giã thật mịn, nặn thành hình tròn, dẹt, không có nhân hoặc có nhân đậu xanh</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh tét}******** -->
+    <LexicalEntry id="vietnet-food-99999692">
+      <Lemma writtenForm="bánh tét" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999692-1" synset="vietnet-food-99999776-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999776-n" ili="">
+      <Definition>bánh làm từ nguyên liệu giống bánh chưng nhưng gói thành hình trụ to và dài, làm phổ biến ở một số địa phương [miền Trung và miền Nam] vào dịp Tết Nguyên Đán</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000047-n"/>
+    </Synset>
+    <!-- *******{Lv5. bánh tày}******** -->
+    <LexicalEntry id="vietnet-food-00000106">
+      <Lemma writtenForm="bánh tày" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000106-1" synset="vietnet-food-00000047-n" confidenceScore="0.8"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000047-n" ili="oewn-07696677-n">
+      <Definition>bánh tét nhỏ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999776-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh nếp}******** -->
+    <LexicalEntry id="vietnet-food-99999691">
+      <Lemma writtenForm="bánh nếp" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999691-1" synset="vietnet-food-99999775-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999775-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp, có nhân đậu xanh và thịt, mỡ, gói bằng lá chuối, hấp chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh gai}******** -->
+    <LexicalEntry id="vietnet-food-99999690">
+      <Lemma writtenForm="bánh gai" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999690-1" synset="vietnet-food-99999774-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999774-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp và lá gai luộc chín, giã nhuyễn, trộn với mật, có nhân đậu xanh và cùi dừa, gói bằng lá chuối khô, hấp chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh khảo}******** -->
+    <LexicalEntry id="vietnet-food-99999689">
+      <Lemma writtenForm="bánh khảo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999689-1" synset="vietnet-food-99999773-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999773-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp rang trộn với đường, cán kĩ, nén vào khuôn, có khi có nhân</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh khúc}******** -->
+    <LexicalEntry id="vietnet-food-99999688">
+      <Lemma writtenForm="bánh khúc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999688-1" synset="vietnet-food-99999772-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999772-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp trộn với lá rau khúc giã nhỏ, có nhân đậu xanh và mỡ, đồ lẫn với gạo nếp</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh bỏng}******** -->
+    <LexicalEntry id="vietnet-food-99999687">
+      <Lemma writtenForm="bánh bỏng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999687-1" synset="vietnet-food-99999771-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999771-n" ili="">
+      <Definition>bánh làm bằng gạo nếp rang thành bỏng, trộn với mật thành từng nắm</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh mật}******** -->
+    <LexicalEntry id="vietnet-food-99999686">
+      <Lemma writtenForm="bánh mật" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999686-1" synset="vietnet-food-99999770-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999770-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp trộn với mật, có nhân đậu xanh hoặc lạc, thường gói bằng lá chuối khô, hấp chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh ít, bánh ếch}******** -->
+    <LexicalEntry id="vietnet-food-99999685">
+      <Lemma writtenForm="bánh ít" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999685-1" synset="vietnet-food-99999769-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999684">
+      <Lemma writtenForm="bánh ếch" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999684-1" synset="vietnet-food-99999769-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999769-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp, có nhân thịt hoặc đậu xanh, gói bằng lá chuối thành hình chóp, luộc chín [thường có ở miền Trung và Nam]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh tổ}******** -->
+    <LexicalEntry id="vietnet-food-99999683">
+      <Lemma writtenForm="bánh tổ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999683-1" synset="vietnet-food-99999768-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999768-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp và nước đường hoặc mật, đổ vào rọ tre đan có lót lá chuối [giống hình tổ chim], rồi hấp chín, làm phổ biến ở một số địa phương [miền Trung và miền Nam] vào dịp Tết Nguyên Đán, có thể ăn ngay hoặc rán vàng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh trôi}******** -->
+    <LexicalEntry id="vietnet-food-99999682">
+      <Lemma writtenForm="bánh trôi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999682-1" synset="vietnet-food-99999767-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999767-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp, viên tròn, có nhân đường, bỏ vào nước sôi, chín thì nổi lên, làm phổ biến vào dịp Tết Hàn Thực [mồng 3 tháng 3 âm lịch]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh phồng}******** -->
+    <LexicalEntry id="vietnet-food-99999681">
+      <Lemma writtenForm="bánh phồng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999681-1" synset="vietnet-food-99999766-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999766-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp hoặc bột khoai sọ trộn đường, nướng phồng lên, ăn giòn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999765-n"/>
+    </Synset>
+    <!-- *******{Lv5. bánh phồng tôm, phồng tôm}******** -->
+    <LexicalEntry id="vietnet-food-99999680">
+      <Lemma writtenForm="bánh phồng tôm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999680-1" synset="vietnet-food-99999765-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999679">
+      <Lemma writtenForm="phồng tôm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999679-1" synset="vietnet-food-99999765-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999765-n" ili="">
+      <Definition>bánh làm bằng tinh bột trộn với tôm giã nhỏ, sấy khô, khi ăn rán phồng lên</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999766-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh in}******** -->
+    <LexicalEntry id="vietnet-food-99999678">
+      <Lemma writtenForm="bánh in" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999678-1" synset="vietnet-food-99999764-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999764-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp hay bột đậu xanh rang trộn với đường, nén vào khuôn nhỏ [thường có ở miền Trung và miền Nam]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh tro, bánh gio}******** -->
+    <LexicalEntry id="vietnet-food-99999677">
+      <Lemma writtenForm="bánh tro" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999677-1" synset="vietnet-food-99999763-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999676">
+      <Lemma writtenForm="bánh gio" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999676-1" synset="vietnet-food-99999763-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999763-n" ili="">
+      <Definition>bánh làm bằng gạo nếp ngâm nước tro, gói bằng lá dong, luộc chín, có màu vàng trong, ăn với mật hoặc đường</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh ú}******** -->
+    <LexicalEntry id="vietnet-food-99999675">
+      <Lemma writtenForm="bánh ú" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999675-1" synset="vietnet-food-99999762-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999762-n" ili="">
+      <Definition>bánh làm bằng gạo nếp, gói bằng lá thành hình tháp nhỏ có bốn góc, luộc chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999761-n"/>
+    </Synset>
+    <!-- *******{Lv5. bánh ú tro}******** -->
+    <LexicalEntry id="vietnet-food-99999674">
+      <Lemma writtenForm="bánh ú tro" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999674-1" synset="vietnet-food-99999761-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999761-n" ili="">
+      <Definition>bánh tro gói hình tháp</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999762-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh rán}******** -->
+    <LexicalEntry id="vietnet-food-99999673">
+      <Lemma writtenForm="bánh rán" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999673-1" synset="vietnet-food-99999760-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999760-n" ili="">
+      <Definition>bánh làm bằng bột gạo nếp, có nhân đậu xanh và đường hoặc nhân thịt, miến, v.v. rán vàng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh bèo}******** -->
+    <LexicalEntry id="vietnet-food-99999672">
+      <Lemma writtenForm="bánh bèo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999672-1" synset="vietnet-food-99999759-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999759-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ xay ướt, đổ vào bát hoặc vào khuôn rồi hấp chín, trên rắc hành mỡ, ruốc tôm, hình giống cánh bèo</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh bò}******** -->
+    <LexicalEntry id="vietnet-food-99999671">
+      <Lemma writtenForm="bánh bò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999671-1" synset="vietnet-food-99999758-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999758-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ ủ với đường và men, khi hấp chín thì nở to, mềm và xốp</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh cuốn, bánh mướt, bánh ướt}******** -->
+    <LexicalEntry id="vietnet-food-99999670">
+      <Lemma writtenForm="bánh cuốn" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999670-1" synset="vietnet-food-99999757-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999669">
+      <Lemma writtenForm="bánh mướt" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999669-1" synset="vietnet-food-99999757-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999668">
+      <Lemma writtenForm="bánh ướt" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999668-1" synset="vietnet-food-99999757-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999757-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ xay ướt, tráng mỏng, hấp chín rồi cuộn lại, thường có nhân tôm hoặc hành mỡ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh hỏi}******** -->
+    <LexicalEntry id="vietnet-food-99999667">
+      <Lemma writtenForm="bánh hỏi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999667-1" synset="vietnet-food-99999756-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999756-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ, hấp chín thành từng sợi nhỏ hơn bún, ăn với thịt quay hoặc nem [thường có ở miền Nam]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh nậm}******** -->
+    <LexicalEntry id="vietnet-food-99999666">
+      <Lemma writtenForm="bánh nậm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999666-1" synset="vietnet-food-99999755-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999755-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ trải mỏng ra giữa hai lớp lá chuối, có nhân tôm thịt, gói thành tấm hình chữ nhật, hấp chín [được làm nhiều ở miền Trung]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh giò}******** -->
+    <LexicalEntry id="vietnet-food-99999665">
+      <Lemma writtenForm="bánh giò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999665-1" synset="vietnet-food-99999754-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999754-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ, có nhân thịt, hành, mộc nhĩ, gói bằng lá chuối thành hình củ ấu, luộc chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh tẻ}******** -->
+    <LexicalEntry id="vietnet-food-99999664">
+      <Lemma writtenForm="bánh tẻ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999664-1" synset="vietnet-food-99999753-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999753-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ, có nhân hành mỡ, gói bằng lá dong hoặc lá chuối, luộc chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh đa, bánh tráng}******** -->
+    <LexicalEntry id="vietnet-food-99999663">
+      <Lemma writtenForm="bánh đa" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999663-1" synset="vietnet-food-99999752-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999662">
+      <Lemma writtenForm="bánh tráng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999662-1" synset="vietnet-food-99999752-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999752-n" ili="">
+      <Definition>bánh thường làm bằng bột gạo tẻ hay sắn, khoai, v.v. xay ướt, tráng thành tấm mỏng hình tròn, thường có rắc vừng rồi phơi khô, khi ăn thì nướng lên</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999751-n"/>
+    </Synset>
+    <!-- *******{Lv5. bánh đa nem}******** -->
+    <LexicalEntry id="vietnet-food-99999661">
+      <Lemma writtenForm="bánh đa nem" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999661-1" synset="vietnet-food-99999751-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999751-n" ili="">
+      <Definition>bánh đa dùng để gói nem hay cuốn gỏi ăn sống, hình tròn hoặc vuông, để thành xấp, làm bằng bột gạo tráng mỏng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999752-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh đúc}******** -->
+    <LexicalEntry id="vietnet-food-99999660">
+      <Lemma writtenForm="bánh đúc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999660-1" synset="vietnet-food-99999750-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999750-n" ili="oewn-07632797-n">
+      <Definition>bánh nấu bằng bột gạo tẻ hoặc bột ngô quấy với nước vôi trong và hàn the, khi chín đổ ra cho đông thành tảng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh khoái}******** -->
+    <LexicalEntry id="vietnet-food-99999659">
+      <Lemma writtenForm="bánh khoái" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999659-1" synset="vietnet-food-99999749-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999749-n" ili="">
+      <Definition>bánh quấy bằng bột gạo tẻ trộn với hành mỡ, đổ ra đĩa</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh phở}******** -->
+    <LexicalEntry id="vietnet-food-99999658">
+      <Lemma writtenForm="bánh phở" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999658-1" synset="vietnet-food-99999748-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999748-n" ili="">
+      <Definition>bánh tráng bằng bột gạo tẻ, không có nhân, cắt thành sợi để làm phở</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh quế}******** -->
+    <LexicalEntry id="vietnet-food-99999657">
+      <Lemma writtenForm="bánh quế" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999657-1" synset="vietnet-food-99999747-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999747-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ xay ướt tẩm đường và bột thơm mùi quế, đổ vào khuôn kẹp, nướng trên lò và cuộn thành ống hơi dẹt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh xèo}******** -->
+    <LexicalEntry id="vietnet-food-99999656">
+      <Lemma writtenForm="bánh xèo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999656-1" synset="vietnet-food-99999746-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999746-n" ili="">
+      <Definition>bánh làm bằng bột gạo tẻ xay ướt, tráng mỏng trên chảo rồi gập đôi lại, trong đó có nhân tôm, thịt, giá và hành</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh cốm}******** -->
+    <LexicalEntry id="vietnet-food-99999655">
+      <Lemma writtenForm="bánh cốm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999655-1" synset="vietnet-food-99999745-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999745-n" ili="">
+      <Definition>bánh làm bằng cốm dẻo ngào với nước đường, có nhân đậu xanh và cùi dừa, thường gói bằng lá chuối tươi thành hình vuông</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh đậu xanh}******** -->
+    <LexicalEntry id="vietnet-food-99999654">
+      <Lemma writtenForm="bánh đậu xanh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999654-1" synset="vietnet-food-99999744-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999744-n" ili="">
+      <Definition>bánh làm bằng bột đậu xanh rang thơm trộn với đường, nén vào khuôn nhỏ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh dẻo}******** -->
+    <LexicalEntry id="vietnet-food-99999653">
+      <Lemma writtenForm="bánh dẻo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999653-1" synset="vietnet-food-99999743-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999743-n" ili="">
+      <Definition>bánh ngọt và dẻo, làm bằng bột gạo nếp rang trộn với nước đường, thường có nhân mứt, mỡ, làm phổ biến vào dịp Tết Trung Thu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh nướng}******** -->
+    <LexicalEntry id="vietnet-food-99999652">
+      <Lemma writtenForm="bánh nướng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999652-1" synset="vietnet-food-99999742-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999742-n" ili="">
+      <Definition>bánh có nhân thập cẩm hoặc nhân đậu xanh, bên ngoài có bao lớp áo bột mỏng, nướng chín trong lò, làm phổ biến vào dịp Tết Trung Thu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh trung thu}******** -->
+    <LexicalEntry id="vietnet-food-99999651">
+      <Lemma writtenForm="bánh trung thu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999651-1" synset="vietnet-food-99999741-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999741-n" ili="">
+      <Definition>bánh nướng và, hoặc bánh dẻo dùng trong dịp Tết Trung Thu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh bàng}******** -->
+    <LexicalEntry id="vietnet-food-99999650">
+      <Lemma writtenForm="bánh bàng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999650-1" synset="vietnet-food-99999740-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999740-n" ili="">
+      <Definition>bánh nhỏ hình quả bàng, làm bằng bột mì, đường và trứng, nướng chín trong lò</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh bao}******** -->
+    <LexicalEntry id="vietnet-food-99999649">
+      <Lemma writtenForm="bánh bao" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999649-1" synset="vietnet-food-99999739-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999739-n" ili="">
+      <Definition>bánh làm bằng bột mì ủ men, hấp chín, có nhân mặn hoặc ngọt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh chả}******** -->
+    <LexicalEntry id="vietnet-food-99999648">
+      <Lemma writtenForm="bánh chả" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999648-1" synset="vietnet-food-99999738-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999738-n" ili="">
+      <Definition>bánh làm bằng bột mì trộn với đường và thịt băm nhỏ, nướng chín trong lò</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh mì, bánh tây}******** -->
+    <LexicalEntry id="vietnet-food-99999647">
+      <Lemma writtenForm="bánh mì" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999647-1" synset="vietnet-food-99999737-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999646">
+      <Lemma writtenForm="bánh tây" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999646-1" synset="vietnet-food-99999737-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999737-n" ili="">
+      <Definition>bánh làm bằng bột mì ủ men nướng chín trong lò, dùng làm món ăn chính ở một số nước</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999736-n"/>
+    </Synset>
+    <!-- *******{Lv5. bánh mì gối}******** -->
+    <LexicalEntry id="vietnet-food-99999645">
+      <Lemma writtenForm="bánh mì gối" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999645-1" synset="vietnet-food-99999736-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999736-n" ili="">
+      <Definition>bánh mì hình khối chữ nhật, rất mềm</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999737-n"/>
+    </Synset>
+    <!-- *******{Lv4. bích cốt}******** -->
+    <LexicalEntry id="vietnet-food-99999644">
+      <Lemma writtenForm="bích cốt" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999644-1" synset="vietnet-food-99999735-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999735-n" ili="">
+      <Definition>bánh làm bằng bánh mì cắt thành miếng, sấy khô hoặc rán</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh quy, bích quy}******** -->
+    <LexicalEntry id="vietnet-food-99999643">
+      <Lemma writtenForm="bánh quy" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999643-1" synset="vietnet-food-99999734-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999642">
+      <Lemma writtenForm="bích quy" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999642-1" synset="vietnet-food-99999734-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999734-n" ili="">
+      <Definition>bánh làm bằng bột mì cán mỏng, đóng khuôn và nướng chín trong lò, có vị ngọt hoặc mặn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh tai voi}******** -->
+    <LexicalEntry id="vietnet-food-99999641">
+      <Lemma writtenForm="bánh tai voi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999641-1" synset="vietnet-food-99999733-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999733-n" ili="">
+      <Definition>bánh làm bằng bột mì với đường, nướng chín, có hình tai voi</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. ga tô}******** -->
+    <LexicalEntry id="vietnet-food-99999640">
+      <Lemma writtenForm="ga tô" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999640-1" synset="vietnet-food-99999732-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999732-n" ili="">
+      <Definition>bánh nướng xốp, mềm, làm bằng bột mì đánh lẫn với đường và trứng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh tôm}******** -->
+    <LexicalEntry id="vietnet-food-99999639">
+      <Lemma writtenForm="bánh tôm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999639-1" synset="vietnet-food-99999731-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999731-n" ili="">
+      <Definition>bánh làm bằng bột gạo hoặc bột mì rán với tôm, ăn với nước chấm và rau sống</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh chay}******** -->
+    <LexicalEntry id="vietnet-food-99999638">
+      <Lemma writtenForm="bánh chay" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999638-1" synset="vietnet-food-99999730-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999730-n" ili="">
+      <Definition>bánh hình tròn, dẹt, làm bằng bột nếp, nhân đậu xanh, luộc chín rồi thả vào nước đường sánh, làm phổ biến vào dịp Tết Hàn Thực [mồng 3 tháng 3 âm lịch]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. su sê}******** -->
+    <LexicalEntry id="vietnet-food-99999637">
+      <Lemma writtenForm="su sê" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999637-1" synset="vietnet-food-99999729-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999729-n" ili="">
+      <Definition>bánh làm bằng bột nếp lọc trong và quánh, màu hổ phách, có nhân đường hoặc nhân đậu xanh</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh khoai}******** -->
+    <LexicalEntry id="vietnet-food-99999636">
+      <Lemma writtenForm="bánh khoai" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999636-1" synset="vietnet-food-99999728-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999728-n" ili="">
+      <Definition>bánh làm bằng khoai lang hoặc khoai sọ thái mỏng, trộn với bột gạo tẻ, nhân đậu xanh và thịt, gói lá, luộc chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh cắt}******** -->
+    <LexicalEntry id="vietnet-food-99999635">
+      <Lemma writtenForm="bánh cắt" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999635-1" synset="vietnet-food-99999727-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999727-n" ili="">
+      <Definition>bánh ngọt, nhân hoặc kem kẹp giữa hai lớp bột, nướng chín từng mảng trong lò và cắt thành miếng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh gối}******** -->
+    <LexicalEntry id="vietnet-food-99999634">
+      <Lemma writtenForm="bánh gối" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999634-1" synset="vietnet-food-99999726-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999726-n" ili="oewn-07640075-n">
+      <Definition>bánh nhân thịt, miến, v.v., bọc trong vỏ bột gói giống như cái gối hình bán nguyệt có riềm, đem rán vàng, ăn với nước chấm và rau sống</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv4. bánh thánh}******** -->
+    <LexicalEntry id="vietnet-food-99999633">
+      <Lemma writtenForm="bánh thánh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999633-1" synset="vietnet-food-99999725-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999725-n" ili="">
+      <Definition>bánh do các giáo sĩ Công giáo làm phép rồi phân phát cho con chiên trong những ngày lễ lớn ở nhà thờ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999780-n"/>
+    </Synset>
+    <!-- *******{Lv3. xôi}******** -->
+    <LexicalEntry id="vietnet-food-99999632">
+      <Lemma writtenForm="xôi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999632-1" synset="vietnet-food-99999724-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999724-n" ili="">
+      <Definition>món ăn bằng gạo nếp đồ chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999723-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000039-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999720-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000152-n"/>
+    </Synset>
+    <!-- *******{Lv4. xôi gấc}******** -->
+    <LexicalEntry id="vietnet-food-99999631">
+      <Lemma writtenForm="xôi gấc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999631-1" synset="vietnet-food-99999723-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999723-n" ili="">
+      <Definition>xôi nấu trộn với ruột gấc, màu đỏ, vị hơi ngọt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999724-n"/>
+    </Synset>
+    <!-- *******{Lv4. xôi lúa, xôi xéo}******** -->
+    <LexicalEntry id="vietnet-food-00000308">
+      <Lemma writtenForm="xôi lúa" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000308-1" synset="vietnet-food-00000152-n" confidenceScore="0.8"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-00000020">
+      <Lemma writtenForm="xôi xéo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000020-1" synset="vietnet-food-00000152-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000152-n" ili="oewn-15114370-n">
+      <Definition>xôi nấu trộn với đậu xanh chín giã nhỏ, có hành mỡ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999724-n"/>
+    </Synset>
+    <!-- *******{Lv4. xôi ngô}******** -->
+    <LexicalEntry id="vietnet-food-00000092">
+      <Lemma writtenForm="xôi ngô" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000092-1" synset="vietnet-food-00000039-n" confidenceScore="0.8"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000039-n" ili="oewn-07633541-n">
+      <Definition>xôi nấu trộn với ngô nếp, thường rắc thêm đậu xanh chín giã nhỏ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999724-n"/>
+    </Synset>
+    <!-- *******{Lv4. xôi vò}******** -->
+    <LexicalEntry id="vietnet-food-99999628">
+      <Lemma writtenForm="xôi vò" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999628-1" synset="vietnet-food-99999720-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999720-n" ili="">
+      <Definition>xôi nấu rồi trộn đều với đậu xanh chín giã nhỏ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999724-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè}******** -->
+    <LexicalEntry id="vietnet-food-00000082">
+      <Lemma writtenForm="chè" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000082-1" synset="vietnet-food-00000034-n" confidenceScore="0.8"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000034-n" ili="oewn-07628241-n">
+      <Definition>món ăn ngọt nấu bằng đường hay mật với chất có bột như gạo, đậu, v.v.</Definition>
+      <Example>chè đậu xanh</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999717-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999716-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999715-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999714-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999713-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999712-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999711-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999710-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999709-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè bà cốt}******** -->
+    <LexicalEntry id="vietnet-food-99999625">
+      <Lemma writtenForm="chè bà cốt" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999625-1" synset="vietnet-food-99999717-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999717-n" ili="">
+      <Definition>chè nấu bằng mật với gạo nếp có pha vị gừng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè con ong}******** -->
+    <LexicalEntry id="vietnet-food-99999624">
+      <Lemma writtenForm="chè con ong" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999624-1" synset="vietnet-food-99999716-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999716-n" ili="oewn-07625449-n">
+      <Definition>chè nấu bằng đường với xôi, hạt xôi nở to</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè đậu đãi}******** -->
+    <LexicalEntry id="vietnet-food-99999623">
+      <Lemma writtenForm="chè đậu đãi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999623-1" synset="vietnet-food-99999715-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999715-n" ili="">
+      <Definition>chè nấu bằng đường trắng với đậu xanh đãi sạch vỏ</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè đường}******** -->
+    <LexicalEntry id="vietnet-food-99999622">
+      <Lemma writtenForm="chè đường" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999622-1" synset="vietnet-food-99999714-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999714-n" ili="">
+      <Definition>chè nấu bằng đường trắng với bột nếp hoặc bột đao, thường ăn với xôi vò</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè hạt lựu}******** -->
+    <LexicalEntry id="vietnet-food-99999621">
+      <Lemma writtenForm="chè hạt lựu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999621-1" synset="vietnet-food-99999713-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999713-n" ili="">
+      <Definition>chè nấu bằng đường với bột hoàng tinh hoặc bột sắn kết thành những hạt nhỏ như hạt lựu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè hoa cau}******** -->
+    <LexicalEntry id="vietnet-food-99999620">
+      <Lemma writtenForm="chè hoa cau" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999620-1" synset="vietnet-food-99999712-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999712-n" ili="">
+      <Definition>chè đường có rắc đậu xanh đãi vỏ đã đồ chín</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè hương}******** -->
+    <LexicalEntry id="vietnet-food-99999619">
+      <Lemma writtenForm="chè hương" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999619-1" synset="vietnet-food-99999711-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999711-n" ili="">
+      <Definition>chè sản xuất từ búp chè không ủ lên men và đã sàng lọc kĩ, ướp bằng hương các thứ hoa</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè kho}******** -->
+    <LexicalEntry id="vietnet-food-99999618">
+      <Lemma writtenForm="chè kho" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999618-1" synset="vietnet-food-99999710-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999710-n" ili="">
+      <Definition>chè nấu thật đặc bằng đường hay mật với đậu xanh rang</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv4. chè lam}******** -->
+    <LexicalEntry id="vietnet-food-99999617">
+      <Lemma writtenForm="chè lam" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999617-1" synset="vietnet-food-99999709-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999709-n" ili="oewn-07612936-n">
+      <Definition>bánh ngọt làm bằng bột bỏng nếp ngào với mật, có pha nước gừng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+    </Synset>
+    <!-- *******{Lv3. xu xoa}******** -->
+    <LexicalEntry id="vietnet-food-99999616">
+      <Lemma writtenForm="xu xoa" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999616-1" synset="vietnet-food-99999708-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999708-n" ili="">
+      <Definition>thạch</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+    </Synset>
+    <!-- *******{Lv3. kem}******** -->
+    <LexicalEntry id="vietnet-food-99999615">
+      <Lemma writtenForm="kem" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999615-1" synset="vietnet-food-99999707-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999707-n" ili="oewn-07634613-n">
+      <Definition>thức ăn làm bằng sữa, trứng, đường đánh lẫn với nhau cho đặc sánh lại</Definition>
+      <Example>đánh kem bánh ngọt nhân kem</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+    </Synset>
+    <!-- *******{Lv3. kem}******** -->
+    <LexicalEntry id="vietnet-food-00000086">
+      <Lemma writtenForm="kem" partOfSpeech="n"/>
+      <Sense id="vietnet-food-00000086-1" synset="vietnet-food-00000035-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-00000035-n" ili="oewn-07630109-n">
+      <Definition>thức ăn làm bằng sữa, trứng, đường, v.v đánh lẫn với nhau rồi cho đông trong máy lạnh</Definition>
+      <Example>kem cốc kem đậu xanh mua mấy que kem</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999706-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999705-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999704-n"/>
+    </Synset>
+    <!-- *******{Lv4. kem cân, kem ký, kem kí}******** -->
+    <LexicalEntry id="vietnet-food-99999614">
+      <Lemma writtenForm="kem cân" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999614-1" synset="vietnet-food-99999706-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999613">
+      <Lemma writtenForm="kem ký" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999613-1" synset="vietnet-food-99999706-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999612">
+      <Lemma writtenForm="kem kí" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999612-1" synset="vietnet-food-99999706-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999706-n" ili="">
+      <Definition>kem ăn được bán theo cân, có loại đóng hộp sẵn với trọng lượng khoảng nửa cân hoặc một cân</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000035-n"/>
+    </Synset>
+    <!-- *******{Lv4. kem cây, kem que}******** -->
+    <LexicalEntry id="vietnet-food-99999611">
+      <Lemma writtenForm="kem cây" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999611-1" synset="vietnet-food-99999705-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999610">
+      <Lemma writtenForm="kem que" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999610-1" synset="vietnet-food-99999705-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999705-n" ili="">
+      <Definition>kem ăn ở dạng đông cứng, đóng thành thỏi, có que để cầm</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000035-n"/>
+    </Synset>
+    <!-- *******{Lv4. kem cốc}******** -->
+    <LexicalEntry id="vietnet-food-99999609">
+      <Lemma writtenForm="kem cốc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999609-1" synset="vietnet-food-99999704-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999704-n" ili="oewn-07632096-n">
+      <Definition>kem đặc, đựng vào cốc để ăn</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000035-n"/>
+    </Synset>
+    <!-- *******{Lv3. kẹo}******** -->
+    <LexicalEntry id="vietnet-food-99999608">
+      <Lemma writtenForm="kẹo" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999608-1" synset="vietnet-food-99999703-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999703-n" ili="">
+      <Definition>đồ ăn ở dạng viên hoặc thỏi, làm bằng đường, mật, thường có thêm các chất béo, chất thơm</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999997-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999702-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999701-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999700-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999699-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999698-n"/>
+    </Synset>
+    <!-- *******{Lv4. kẹo cao su}******** -->
+    <LexicalEntry id="vietnet-food-99999607">
+      <Lemma writtenForm="kẹo cao su" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999607-1" synset="vietnet-food-99999702-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999702-n" ili="oewn-07615569-n">
+      <Definition>kẹo dai và có độ đàn hồi như cao su, có thể nhai lâu rồi bỏ bã chứ không nuốt, thường dùng nhai cho sạch hoặc cho vui miệng</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999703-n"/>
+    </Synset>
+    <!-- *******{Lv4. kẹo đắng}******** -->
+    <LexicalEntry id="vietnet-food-99999606">
+      <Lemma writtenForm="kẹo đắng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999606-1" synset="vietnet-food-99999701-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999701-n" ili="">
+      <Definition>đường nấu cô lại cho cháy, màu nâu sẫm, dùng để cho vào đồ kho nấu cho thơm và có màu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999703-n"/>
+    </Synset>
+    <!-- *******{Lv4. cu đơ}******** -->
+    <LexicalEntry id="vietnet-food-99999605">
+      <Lemma writtenForm="cu đơ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999605-1" synset="vietnet-food-99999700-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999700-n" ili="">
+      <Definition>kẹo làm bằng lạc rang ngào với mật hoặc đường, kẹp giữa hai lớp bánh đa mỏng, ăn giòn, có vị ngọt bùi</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999703-n"/>
+    </Synset>
+    <!-- *******{Lv4. mạch nha}******** -->
+    <LexicalEntry id="vietnet-food-99999604">
+      <Lemma writtenForm="mạch nha" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999604-1" synset="vietnet-food-99999699-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999699-n" ili="">
+      <Definition>kẹo làm bằng gạo nếp và các loại tinh bột, có dùng men trong mầm thóc để đường hóa</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999703-n"/>
+    </Synset>
+    <!-- *******{Lv4. mè xửng}******** -->
+    <LexicalEntry id="vietnet-food-99999603">
+      <Lemma writtenForm="mè xửng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999603-1" synset="vietnet-food-99999698-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999698-n" ili="oewn-07623948-n">
+      <Definition>kẹo dẻo, màu hơi vàng và trong, lớp ngoài bọc vừng, được cắt thành miếng</Definition>
+      <Example>mè xửng là một đặc sản của xứ Huế</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999703-n"/>
     </Synset>
     <!-- *******{Lv2. trái cây, hoa quả}******** -->
     <LexicalEntry id="vietnet-food-99999996">
@@ -3470,56 +4413,14 @@
       <SynsetRelation relType="hyponym" target="vietnet-food-00000030-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-00000031-n"/>
     </Synset>
-    <Synset id="vietnet-food-00000030-n" ili="oewn-07612936-n">
-      <Definition>bánh ngọt làm bằng bột bỏng nếp ngào với mật, có pha nước gừng</Definition>
-      <Example>kẹo cu đơ là một đặc sản của vùng Nghệ An</Example>
-      <Example>nấu kẹo viên kẹo kẹo lạc</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000029-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000032-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000031-n" ili="oewn-07615569-n">
-      <Definition>kẹo dai và có độ đàn hồi như cao su, có thể nhai lâu rồi bỏ bã chứ không nuốt, thường dùng nhai cho sạch hoặc cho vui miệng</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000029-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000032-n" ili="oewn-07623948-n">
-      <Definition>kẹo dẻo, màu hơi vàng và trong, lớp ngoài bọc vừng, được cắt thành miếng</Definition>
-      <Example>mè xửng là một đặc sản của xứ Huế</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000030-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000033-n" ili="oewn-07625449-n">
-      <Definition>chè nấu bằng đường với xôi, hạt xôi nở to</Definition>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000034-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000034-n" ili="oewn-07628241-n">
-      <Definition>món ăn ngọt nấu bằng đường hay mật với chất có bột như gạo, đậu, v.v.</Definition>
-      <Example>chè đậu xanh</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000033-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000042-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000035-n" ili="oewn-07630109-n">
-      <Definition>thức ăn làm bằng sữa, trứng, đường, v.v đánh lẫn với nhau rồi cho đông trong máy lạnh</Definition>
-      <Example>kem cốc kem đậu xanh mua mấy que kem</Example>
-    </Synset>
     <Synset id="vietnet-food-00000036-n" ili="oewn-07631383-n">
       <Definition>kem que</Definition>
-    </Synset>
-    <Synset id="vietnet-food-00000037-n" ili="oewn-07632096-n">
-      <Definition>kem đặc, đựng vào cốc để ăn</Definition>
     </Synset>
     <Synset id="vietnet-food-00000038-n" ili="oewn-07632797-n">
       <Definition>bánh nấu bằng bột gạo tẻ hoặc bột ngô quấy với nước vôi trong và hàn the, khi chín đổ ra cho đông thành tảng</Definition>
       <Example>quấy bánh đúc má bánh đúc (má tròn đầy phinh phính)</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000005-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-00000039-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000039-n" ili="oewn-07633541-n">
-      <Definition>xôi nấu trộn với ngô nếp, thường rắc thêm đậu xanh chín giã nhỏ</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000038-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000040-n" ili="oewn-07634613-n">
-      <Definition>thức ăn làm bằng sữa, trứng, đường đánh lẫn với nhau cho đặc sánh lại</Definition>
-      <Example>đánh kem bánh ngọt nhân kem</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000005-n"/>
     </Synset>
     <Synset id="vietnet-food-00000042-n" ili="oewn-07635656-n">
       <Definition>chè nấu bằng đường với bột hoàng tinh hoặc bột sắn kết thành những hạt nhỏ như hạt lựu</Definition>
@@ -3547,10 +4448,6 @@
       <SynsetRelation relType="hyponym" target="vietnet-food-00000049-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-00000050-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-00000051-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000047-n" ili="oewn-07696677-n">
-      <Definition>bánh tét nhỏ</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000046-n"/>
     </Synset>
     <Synset id="vietnet-food-00000048-n" ili="oewn-07697671-n">
       <Definition>bánh phồng tôm [nói tắt]</Definition>
@@ -3603,18 +4500,6 @@
     <Synset id="vietnet-food-00000058-n" ili="oewn-07748612-n">
       <Definition>món ăn làm bằng ngô hoặc gạo rang phồng cho nở ra, có khi trộn thêm mật</Definition>
       <Example>bỏng ngô một nắm bỏng gạo</Example>
-    </Synset>
-    <Synset id="vietnet-food-00000063-n" ili="oewn-07820299-n">
-      <Definition>gạo đem nấu chín, ráo nước, dùng làm món chính trong bữa ăn hằng ngày</Definition>
-      <Example>nấu một nồi cơm đầy &quot;Sen đặt bát cơm vào khay đưa Nga. Mùi gạo tám thơm ngào ngạt.&quot; (Nguyễn Công Hoan; 8)</Example>
-      <Example>giã gạo vo gạo thổi cơm thóc cao gạo kém</Example>
-      <Example>cơm gạo ré</Example>
-      <Example>gạo tám cơm tám</Example>
-      <Example>thóc tẻ &quot;Đói thì thèm thịt, thèm xôi, Hễ no cơm tẻ, thì thôi mọi đường.&quot; (Cdao)</Example>
-      <Example>thóc gạo đầy nhà tích trữ thóc gạo</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000062-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000064-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000065-n"/>
     </Synset>
     <Synset id="vietnet-food-00000069-n" ili="oewn-07822197-n">
       <Definition>món ăn làm bằng bì lợn, thịt hay tôm cá chín tái, thái thành sợi mỏng, trộn với thính và ướp lá ổi</Definition>
@@ -3905,9 +4790,6 @@
       <Definition>vitamin</Definition>
       <Example>loại trái cây chứa nhiều sinh tố A</Example>
     </Synset>
-    <Synset id="vietnet-food-00000152-n" ili="oewn-15114370-n">
-      <Definition>xôi nấu trộn với đậu xanh chín giã nhỏ, có hành mỡ</Definition>
-    </Synset>
     <LexicalEntry id="vietnet-food-00000003">
       <Lemma writtenForm="sữa" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000003-1" synset="vietnet-food-00000002-n" confidenceScore="1.0"/>
@@ -3971,10 +4853,6 @@
     <LexicalEntry id="vietnet-food-00000018">
       <Lemma writtenForm="thức" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000018-1" synset="vietnet-food-00000005-n" confidenceScore="0.8"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000020">
-      <Lemma writtenForm="xôi xéo" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000020-1" synset="vietnet-food-00000005-n" confidenceScore="1.0"/>
     </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000022">
       <Lemma writtenForm="cơm nước" partOfSpeech="n"/>
@@ -4120,10 +4998,6 @@
       <Lemma writtenForm="su sê" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000072-1" synset="vietnet-food-00000029-n" confidenceScore="0.8"/>
     </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000073">
-      <Lemma writtenForm="chè lam" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000073-1" synset="vietnet-food-00000030-n" confidenceScore="0.8"/>
-    </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000074">
       <Lemma writtenForm="cu đơ" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000074-1" synset="vietnet-food-00000030-n" confidenceScore="1.0"/>
@@ -4140,10 +5014,6 @@
       <Lemma writtenForm="mè xửng" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000077-1" synset="vietnet-food-00000032-n" confidenceScore="0.8"/>
     </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000078">
-      <Lemma writtenForm="chè con ong" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000078-1" synset="vietnet-food-00000033-n" confidenceScore="1.0"/>
-    </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000079">
       <Lemma writtenForm="chè đậu đãi" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000079-1" synset="vietnet-food-00000033-n" confidenceScore="0.8"/>
@@ -4155,10 +5025,6 @@
     <LexicalEntry id="vietnet-food-00000081">
       <Lemma writtenForm="chè móc câu" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000081-1" synset="vietnet-food-00000033-n" confidenceScore="0.8"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000082">
-      <Lemma writtenForm="chè" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000082-1" synset="vietnet-food-00000034-n" confidenceScore="0.8"/>
     </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000083">
       <Lemma writtenForm="chè bà cốt" partOfSpeech="n"/>
@@ -4172,10 +5038,6 @@
       <Lemma writtenForm="chè kho" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000085-1" synset="vietnet-food-00000034-n" confidenceScore="0.8"/>
     </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000086">
-      <Lemma writtenForm="kem" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000086-1" synset="vietnet-food-00000035-n" confidenceScore="1.0"/>
-    </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000087">
       <Lemma writtenForm="kem cân" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000087-1" synset="vietnet-food-00000035-n" confidenceScore="0.8"/>
@@ -4188,21 +5050,9 @@
       <Lemma writtenForm="kem que" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000089-1" synset="vietnet-food-00000036-n" confidenceScore="1.0"/>
     </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000090">
-      <Lemma writtenForm="kem cốc" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000090-1" synset="vietnet-food-00000037-n" confidenceScore="1.0"/>
-    </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000091">
       <Lemma writtenForm="bánh đúc" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000091-1" synset="vietnet-food-00000038-n" confidenceScore="0.8"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000092">
-      <Lemma writtenForm="xôi ngô" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000092-1" synset="vietnet-food-00000039-n" confidenceScore="0.8"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000093">
-      <Lemma writtenForm="kem" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000093-1" synset="vietnet-food-00000040-n" confidenceScore="1.0"/>
     </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000095">
       <Lemma writtenForm="chè hạt lựu" partOfSpeech="n"/>
@@ -4247,10 +5097,6 @@
     <LexicalEntry id="vietnet-food-00000105">
       <Lemma writtenForm="bánh mì" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000105-1" synset="vietnet-food-00000046-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000106">
-      <Lemma writtenForm="bánh tày" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000106-1" synset="vietnet-food-00000047-n" confidenceScore="0.8"/>
     </LexicalEntry>
     <LexicalEntry id="vietnet-food-00000107">
       <Lemma writtenForm="phồng tôm" partOfSpeech="n"/>
@@ -4855,10 +5701,6 @@
     <LexicalEntry id="vietnet-food-00000307">
       <Lemma writtenForm="sinh tố" partOfSpeech="n"/>
       <Sense id="vietnet-food-00000307-1" synset="vietnet-food-00000151-n" confidenceScore="1.0"/>
-    </LexicalEntry>
-    <LexicalEntry id="vietnet-food-00000308">
-      <Lemma writtenForm="xôi lúa" partOfSpeech="n"/>
-      <Sense id="vietnet-food-00000308-1" synset="vietnet-food-00000152-n" confidenceScore="0.8"/>
     </LexicalEntry>
   </Lexicon>
 </LexicalResource>
