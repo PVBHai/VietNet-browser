@@ -6002,7 +6002,269 @@
     </LexicalEntry>
     <Synset id="vietnet-food-99999991-n" ili="">
       <Definition> rượu và bia [nói khái quát]</Definition>
+      <Example>"Mười lăm phút sau thấy thằng nhỏ bưng một khay có hai cốc rượu bia lên bao lan." (Vũ Trọng Phụng; 15)</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-99999998-n" />
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999518-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-00000126-n"/>
+    </Synset>
+    <!-- *******{Lv3. rượu}******** -->
+    <LexicalEntry id="vietnet-food-99999399">
+      <Lemma writtenForm="rượu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999399-1" synset="vietnet-food-99999518-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999518-n" ili="">
+      <Definition>chất lỏng, vị cay nồng, thường cất từ chất bột hoặc trái cây đã ủ men</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999991-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999517-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999516-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999515-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999514-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999513-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999512-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999511-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999510-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999509-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999508-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999507-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999506-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999505-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999504-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999503-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999502-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999501-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999500-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999499-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu cẩm}******** -->
+    <LexicalEntry id="vietnet-food-99999398">
+      <Lemma writtenForm="rượu cẩm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999398-1" synset="vietnet-food-99999517-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999517-n" ili="">
+      <Definition>rượu cất bằng gạo cẩm, có màu tím sẫm, mùi thơm</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu cần}******** -->
+    <LexicalEntry id="vietnet-food-99999397">
+      <Lemma writtenForm="rượu cần" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999397-1" synset="vietnet-food-99999516-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999516-n" ili="">
+      <Definition>rượu đựng trong hũ, khi uống thì dùng cần để hút, theo phong tục của một số dân tộc miền núi</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu chát, rượu vang, vang}******** -->
+    <LexicalEntry id="vietnet-food-99999396">
+      <Lemma writtenForm="rượu chát" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999396-1" synset="vietnet-food-99999515-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999395">
+      <Lemma writtenForm="rượu vang" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999395-1" synset="vietnet-food-99999515-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999394">
+      <Lemma writtenForm="vang" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999394-1" synset="vietnet-food-99999515-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999515-n" ili="">
+      <Definition>rượu chế bằng nước của quả nho ép và để cho lên men</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999514-n"/>
+    </Synset>
+    <!-- *******{Lv5. sâm banh}******** -->
+    <LexicalEntry id="vietnet-food-99999393">
+      <Lemma writtenForm="sâm banh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999393-1" synset="vietnet-food-99999514-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999514-n" ili="oewn-07909617-n">
+      <Definition>rượu vang trắng, có nhiều bọt, thường dùng để chúc tụng trong các dịp vui mừng</Definition>
+      <Example>uống sâm banh</Example>
+      <Example>"Buổi khánh thành cái sân quần riêng của bà Phó Đoan (...) cũng có tiệc trà, có rượu sâm banh (...)" (Vũ Trọng Phụng; 13)</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999515-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu chổi}******** -->
+    <LexicalEntry id="vietnet-food-99999392">
+      <Lemma writtenForm="rượu chổi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999392-1" synset="vietnet-food-99999513-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999513-n" ili="">
+      <Definition>rượu cất bằng cây chổi, dùng để xoa bóp</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. thứ}******** -->
+    <LexicalEntry id="vietnet-food-99999391">
+      <Lemma writtenForm="thứ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999391-1" synset="vietnet-food-99999512-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999512-n" ili="">
+      <Definition>rượu cất từ gạo theo lối thủ công truyền thống, thường trong suốt và có nồng độ cao</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu mùi}******** -->
+    <LexicalEntry id="vietnet-food-99999390">
+      <Lemma writtenForm="rượu mùi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999390-1" synset="vietnet-food-99999511-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999511-n" ili="oewn-07924183-n">
+      <Definition>rượu pha chế với đường và tinh dầu thơm của các trái cây, thường có màu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu nếp}******** -->
+    <LexicalEntry id="vietnet-food-99999389">
+      <Lemma writtenForm="rượu nếp" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999389-1" synset="vietnet-food-99999510-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999510-n" ili="">
+      <Definition>rượu được cất từ gạo nếp</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu ngọn}******** -->
+    <LexicalEntry id="vietnet-food-99999388">
+      <Lemma writtenForm="rượu ngọn" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999388-1" synset="vietnet-food-99999509-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999509-n" ili="">
+      <Definition>rượu cất từ nước thứ nhất</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu thuốc}******** -->
+    <LexicalEntry id="vietnet-food-99999387">
+      <Lemma writtenForm="rượu thuốc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999387-1" synset="vietnet-food-99999508-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999508-n" ili="">
+      <Definition>rượu có ngâm các vị thuốc đông y, dùng để uống hoặc xoa bóp</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. quỳnh tương}******** -->
+    <LexicalEntry id="vietnet-food-99999386">
+      <Lemma writtenForm="quỳnh tương" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999386-1" synset="vietnet-food-99999507-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999507-n" ili="">
+      <Definition>rượu ngon</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rum}******** -->
+    <LexicalEntry id="vietnet-food-99999385">
+      <Lemma writtenForm="rum" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999385-1" synset="vietnet-food-99999506-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999506-n" ili="oewn-07921278-n">
+      <Definition>rượu mạnh, cất bằng mật mía</Definition>
+      <Example>mua một chai rum</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu tăm}******** -->
+    <LexicalEntry id="vietnet-food-99999384">
+      <Lemma writtenForm="rượu tăm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999384-1" synset="vietnet-food-99999505-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999505-n" ili="oewn-07909503-n">
+      <Definition>rượu có nồng độ cao, ngon, khi rót ra thường sủi tăm</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu mạnh}******** -->
+    <LexicalEntry id="vietnet-food-99999383">
+      <Lemma writtenForm="rượu mạnh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999383-1" synset="vietnet-food-99999504-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999504-n" ili="oewn-07917827-n">
+      <Definition>tên gọi chung các loại rượu có nồng độ cao</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu ngọt}******** -->
+    <LexicalEntry id="vietnet-food-99999382">
+      <Lemma writtenForm="rượu ngọt" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999382-1" synset="vietnet-food-99999503-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999503-n" ili="oewn-07912262-n">
+      <Definition>tên gọi chung các loại rượu có nồng độ thấp và vị ngọt</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. quốc lủi}******** -->
+    <LexicalEntry id="vietnet-food-99999381">
+      <Lemma writtenForm="quốc lủi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999381-1" synset="vietnet-food-99999502-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999502-n" ili="oewn-07918760-n">
+      <Definition>rượu gạo nấu bằng phương pháp thủ công, có màu trong suốt, nồng độ cao [thời Pháp thuộc thường phải nấu lậu]</Definition>
+      <Example>mua một chai quốc lủi</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu lậu}******** -->
+    <LexicalEntry id="vietnet-food-99999380">
+      <Lemma writtenForm="rượu lậu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999380-1" synset="vietnet-food-99999501-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999501-n" ili="">
+      <Definition>rượu do dân tự cất bằng gạo, có nồng độ cao [trước đây thường phải nấu lậu, do bị cấm]</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv4. rượu ngang}******** -->
+    <LexicalEntry id="vietnet-food-99999379">
+      <Lemma writtenForm="rượu ngang" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999379-1" synset="vietnet-food-99999500-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999500-n" ili="">
+      <Definition>rượu do tư nhân làm trốn thuế, có nồng độ cao</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999518-n"/>
+    </Synset>
+    <!-- *******{Lv3. bia, la ve}******** -->
+    <LexicalEntry id="vietnet-food-99999378">
+      <Lemma writtenForm="bia" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999378-1" synset="vietnet-food-99999499-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999377">
+      <Lemma writtenForm="la ve" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999377-1" synset="vietnet-food-99999499-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999499-n" ili="oewn-07902824-n">
+      <Definition>thức uống có độ cồn nhẹ, chế bằng mộng lúa đại mạch</Definition>
+      <Example>lễ hội bia</Example>
+      <Example>suốt ngày bia bọt, rượu chè</Example>
+      <Example>uống la ve</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999991-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999498-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999497-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999496-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999495-n"/>
+    </Synset>
+    <!-- *******{Lv4. bia chai}******** -->
+    <LexicalEntry id="vietnet-food-99999376">
+      <Lemma writtenForm="bia chai" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999376-1" synset="vietnet-food-99999498-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999498-n" ili="">
+      <Definition>bia uống được đóng thành từng chai</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999499-n"/>
+    </Synset>
+    <!-- *******{Lv4. bia hơi}******** -->
+    <LexicalEntry id="vietnet-food-99999375">
+      <Lemma writtenForm="bia hơi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999375-1" synset="vietnet-food-99999497-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999497-n" ili="oewn-07903074-n">
+      <Definition>bia chưa qua khâu thanh trùng, thường được đóng trong các thùng và không bảo quản được lâu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999499-n"/>
+    </Synset>
+    <!-- *******{Lv4. bia lon}******** -->
+    <LexicalEntry id="vietnet-food-99999374">
+      <Lemma writtenForm="bia lon" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999374-1" synset="vietnet-food-99999496-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999496-n" ili="">
+      <Definition>bia uống được đóng thành từng lon</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999499-n"/>
+    </Synset>
+    <!-- *******{Lv4. bia tươi}******** -->
+    <LexicalEntry id="vietnet-food-99999373">
+      <Lemma writtenForm="bia tươi" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999373-1" synset="vietnet-food-99999495-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999495-n" ili="">
+      <Definition>bia vừa sản xuất xong được đưa ra sử dụng ngay</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999499-n"/>
     </Synset>
     <!-- *******{Lv2. thức ăn}******** -->
     <LexicalEntry id="vietnet-food-99999989">
@@ -6484,18 +6746,6 @@
       <Example>&quot;(...) thỉnh thoảng có phiên chợ mà gặp một hàng thịt bò thế nào ông tôi cũng mua được dăm hào với chai rượu ngang mời ông lý Vọng đến đánh chén.&quot; (Mạnh Phú Tư; 1)</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000124-n"/>
     </Synset>
-    <Synset id="vietnet-food-00000126-n" ili="oewn-07902824-n">
-      <Definition>thức uống có độ cồn nhẹ, chế bằng mộng lúa đại mạch</Definition>
-      <Example>lễ hội bia</Example>
-      <Example>suốt ngày bia bọt, rượu chè</Example>
-      <Example>uống la ve</Example>
-      <Example>&quot;Mười lăm phút sau thấy thằng nhỏ bưng một khay có hai cốc rượu bia lên bao lan.&quot; (Vũ Trọng Phụng; 15)</Example>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000127-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000127-n" ili="oewn-07903074-n">
-      <Definition>bia chưa qua khâu thanh trùng, thường được đóng trong các thùng và không bảo quản được lâu</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000126-n"/>
-    </Synset>
     <Synset id="vietnet-food-00000128-n" ili="oewn-07904884-n">
       <Definition>hạt lúa mạch đã nảy mầm dùng để chế rượu bia</Definition>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000062-n"/>
@@ -6516,39 +6766,6 @@
       <SynsetRelation relType="hypernym" target="vietnet-food-00000124-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-00000131-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-00000133-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000131-n" ili="oewn-07909503-n">
-      <Definition>rượu có nồng độ cao, ngon, khi rót ra thường sủi tăm</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000130-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000132-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000132-n" ili="oewn-07909617-n">
-      <Definition>rượu vang trắng, có nhiều bọt, thường dùng để chúc tụng trong các dịp vui mừng</Definition>
-      <Example>uống sâm banh &quot;Buổi khánh thành cái sân quần riêng của bà Phó Đoan (...) cũng có tiệc trà, có rượu sâm banh (...)&quot; (Vũ Trọng Phụng; 13)</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000131-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000133-n" ili="oewn-07912262-n">
-      <Definition>tên gọi chung các loại rượu có nồng độ thấp và vị ngọt</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000130-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000134-n" ili="oewn-07917827-n">
-      <Definition>tên gọi chung các loại rượu có nồng độ cao</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000124-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000136-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000135-n" ili="oewn-07918760-n">
-      <Definition>rượu gạo nấu bằng phương pháp thủ công, có màu trong suốt, nồng độ cao [thời Pháp thuộc thường phải nấu lậu]</Definition>
-      <Example>mua một chai quốc lủi</Example>
-      <Example>mua mấy lít rượu trắng về ngâm thuốc &quot;Vợ chồng Pha ở chợ về, với một con gà, nửa chai rượu trắng.&quot; (Nguyễn Công Hoan; 4)</Example>
-    </Synset>
-    <Synset id="vietnet-food-00000136-n" ili="oewn-07921278-n">
-      <Definition>rượu mạnh, cất bằng mật mía</Definition>
-      <Example>mua một chai rum</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000134-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000137-n" ili="oewn-07924183-n">
-      <Definition>rượu pha chế với đường và tinh dầu thơm của các trái cây, thường có màu</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000124-n"/>
     </Synset>
     <Synset id="vietnet-food-00000138-n" ili="oewn-07930511-n">
       <Definition>chất chứa nhiều vitamin</Definition>
