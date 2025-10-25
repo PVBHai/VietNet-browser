@@ -5748,6 +5748,91 @@
     <Synset id="vietnet-food-99999995-n" ili="">
       <Definition> chất lỏng không màu, không mùi và tồn tại trong tự nhiên ở ao hồ, sông biển, v.v.</Definition>
       <SynsetRelation relType="hypernym" target="vietnet-food-99999998-n" />
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999537-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999534-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999531-n"/>
+    </Synset>
+    <!-- *******{Lv3. nước lạnh, nước lã}******** -->
+    <LexicalEntry id="vietnet-food-99999420">
+      <Lemma writtenForm="nước lạnh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999420-1" synset="vietnet-food-99999537-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999419">
+      <Lemma writtenForm="nước lã" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999419-1" synset="vietnet-food-99999537-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999537-n" ili="oewn-07951744-n">
+      <Definition>nước ngọt tự nhiên, chưa qua đun nấu, xử lí</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999995-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999536-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999535-n"/>
+    </Synset>
+    <!-- *******{Lv4. nước lọc}******** -->
+    <LexicalEntry id="vietnet-food-99999418">
+      <Lemma writtenForm="nước lọc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999418-1" synset="vietnet-food-99999536-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999536-n" ili="">
+      <Definition>nước lã đã qua khâu lắng lọc và khử trùng để dùng trong sinh hoạt</Definition>
+      <Example>nấu ăn bằng nước lọc</Example>
+      <Example>bể nước lọc</Example>
+      <Example>uống một cốc nước lọc</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999537-n"/>
+    </Synset>
+    <!-- *******{Lv4. nước sạch}******** -->
+    <LexicalEntry id="vietnet-food-99999417">
+      <Lemma writtenForm="nước sạch" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999417-1" synset="vietnet-food-99999535-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999535-n" ili="">
+      <Definition>nước không bị nhiễm bẩn và các chất độc hại, dùng cho đời sống sinh hoạt của con người</Definition>
+      <Example>nguồn nước sạch</Example>
+      <Example>người dân được dùng nước sạch</Example>
+      <Example>chương trình nước sạch ở nông thôn</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999537-n"/>
+    </Synset>
+    <!-- *******{Lv3. nước ăn}******** -->
+    <LexicalEntry id="vietnet-food-99999416">
+      <Lemma writtenForm="nước ăn" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999416-1" synset="vietnet-food-99999534-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999534-n" ili="oewn-07952503-n">
+      <Definition>nước dùng cho việc ăn uống hằng ngày</Definition>
+      <Example>bể nước ăn</Example>
+      <Example>"Chiếc lu đựng nước bị mảnh đại bác va bể thêm một mảng, chừ phải kê nghiêng để có nước ăn trong nhà." (Phan Văn Tại; 1)</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999995-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999533-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999532-n"/>
+    </Synset>
+    <!-- *******{Lv4. nước lọc (cho nước ăn)}******** -->
+    <LexicalEntry id="vietnet-food-99999415">
+      <Lemma writtenForm="nước lọc" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999415-1" synset="vietnet-food-99999533-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999533-n" ili="">
+      <Definition>nước đã được đun sôi, thường để nguội, dùng để uống</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999534-n"/>
+    </Synset>
+    <!-- *******{Lv4. nước trắng}******** -->
+    <LexicalEntry id="vietnet-food-99999414">
+      <Lemma writtenForm="nước trắng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999414-1" synset="vietnet-food-99999532-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999532-n" ili="">
+      <Definition>nước đun sôi để uống; phân biệt với nước trà, nước chè</Definition>
+      <Example>uống thuốc với nước trắng</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999534-n"/>
+    </Synset>
+    <!-- *******{Lv3. nước khoáng}******** -->
+    <LexicalEntry id="vietnet-food-99999413">
+      <Lemma writtenForm="nước khoáng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999413-1" synset="vietnet-food-99999531-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999531-n" ili="oewn-07952985-n">
+      <Definition>nước ở dưới đất, có chứa nhiều chất khí và ion của các nguyên tố hóa học và hợp chất của chúng</Definition>
+      <Example>suối nước khoáng</Example>
+      <Example>nước khoáng đóng chai</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999995-n"/>
     </Synset>
     <!-- *******{Lv2. nước ngọt}******** -->
     <LexicalEntry id="vietnet-food-00000286">
@@ -5759,6 +5844,27 @@
       <Example>mua mấy lon nước ngọt nhà máy sản xuất bia và nước ngọt</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-99999998-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-00000142-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999530-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999529-n"/>
+    </Synset>
+    <!-- *******{Lv3. xá xị}******** -->
+    <LexicalEntry id="vietnet-food-99999412">
+      <Lemma writtenForm="xá xị" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999412-1" synset="vietnet-food-99999530-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999530-n" ili="oewn-07945238-n">
+      <Definition>nước giải khát mùi thơm, vị ngọt</Definition>
+      <Example>uống xá xị chai nước ngọt xá xị</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000141-n"/>
+    </Synset>
+    <!-- *******{Lv3. xi rô}******** -->
+    <LexicalEntry id="vietnet-food-99999411">
+      <Lemma writtenForm="xi rô" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999411-1" synset="vietnet-food-99999529-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999529-n" ili="oewn-07875559-n">
+      <Definition>nước đường có pha thuốc hoặc nước hoa quả để làm dược phẩm hoặc đồ giải khát</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000141-n"/>
     </Synset>
     <!-- *******{Lv2. trà}******** -->
     <LexicalEntry id="vietnet-food-99999992">
@@ -5767,8 +5873,109 @@
     </LexicalEntry>
     <Synset id="vietnet-food-99999993-n" ili="">
       <Definition> búp hoặc lá cây chè đã sao, đã chế biến, để pha nước uống</Definition>
+      <Example>pha trà uống trà trà sen (trà ướp hương sen)</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-99999998-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-99999711-n" />
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999528-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999527-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999526-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999525-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999524-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999523-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999521-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999520-n"/>
+      <SynsetRelation relType="hyponym" target="vietnet-food-99999519-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè hạt, chè hột, chè nụ}******** -->
+    <LexicalEntry id="vietnet-food-99999410">
+      <Lemma writtenForm="chè hạt" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999410-1" synset="vietnet-food-99999528-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999409">
+      <Lemma writtenForm="chè hột" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999409-1" synset="vietnet-food-99999528-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <LexicalEntry id="vietnet-food-99999403">
+      <Lemma writtenForm="chè nụ" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999403-1" synset="vietnet-food-99999528-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999528-n" ili="">
+      <Definition>chè sản xuất từ nụ chè</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè bạng}******** -->
+    <LexicalEntry id="vietnet-food-99999408">
+      <Lemma writtenForm="chè bạng" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999408-1" synset="vietnet-food-99999527-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999527-n" ili="oewn-07949081-n">
+      <Definition>chè sản xuất từ lá chè già băm và phơi khô</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè bồm}******** -->
+    <LexicalEntry id="vietnet-food-99999407">
+      <Lemma writtenForm="chè bồm" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999407-1" synset="vietnet-food-99999526-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999526-n" ili="">
+      <Definition>chè xấu sản xuất từ lá chè không non cũng không già</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè đen}******** -->
+    <LexicalEntry id="vietnet-food-99999406">
+      <Lemma writtenForm="chè đen" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999406-1" synset="vietnet-food-99999525-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999525-n" ili="oewn-07950770-n">
+      <Definition>chè sản xuất từ búp chè đã được ủ lên men, nước có màu hung đỏ, vị thơm dịu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè mạn}******** -->
+    <LexicalEntry id="vietnet-food-99999405">
+      <Lemma writtenForm="chè mạn" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999405-1" synset="vietnet-food-99999524-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999524-n" ili="">
+      <Definition>chè thô sản xuất bằng búp của một giống chè lá to [trước đây thường trồng ở mạn ngược]</Definition>
+      <Example>pha một ấm chè mạn</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè móc câu}******** -->
+    <LexicalEntry id="vietnet-food-99999404">
+      <Lemma writtenForm="chè móc câu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999404-1" synset="vietnet-food-99999523-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999523-n" ili="">
+      <Definition>chè búp ngọn, cánh săn, nhỏ và cong như hình cái móc câu</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè tàu}******** -->
+    <LexicalEntry id="vietnet-food-99999402">
+      <Lemma writtenForm="chè tàu" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999402-1" synset="vietnet-food-99999521-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999521-n" ili="oewn-07951392-n">
+      <Definition>chè sản xuất từ búp chè không ủ lên men, cánh nhỏ, nước xanh, có hương thơm [nguyên sản xuất ở Trung Quốc]</Definition>
+      <Example>"Hương chè tàu thơm ngát thoảng lên làm Bính ngạc nhiên (...)" (Nguyên Hồng; 1)</Example>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè xanh (1)}******** -->
+    <LexicalEntry id="vietnet-food-99999401">
+      <Lemma writtenForm="chè xanh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999401-1" synset="vietnet-food-99999520-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999520-n" ili="oewn-07949514-n">
+      <Definition>lá chè già mới hái, dùng để nấu nước uống</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
+    </Synset>
+    <!-- *******{Lv3. chè xanh (2)}******** -->
+    <LexicalEntry id="vietnet-food-99999400">
+      <Lemma writtenForm="chè xanh" partOfSpeech="n"/>
+      <Sense id="vietnet-food-99999400-1" synset="vietnet-food-99999519-n" confidenceScore="1.0"/>
+    </LexicalEntry>
+    <Synset id="vietnet-food-99999519-n" ili="">
+      <Definition>chè sản xuất từ búp chè không ủ lên men; phân biệt với chè đen</Definition>
+      <SynsetRelation relType="hypernym" target="vietnet-food-99999993-n"/>
     </Synset>
     <!-- *******{Lv3. chè hương}******** -->
     <LexicalEntry id="vietnet-food-99999619">
@@ -6227,10 +6434,6 @@
       <Example>bánh mì ốp lết (bánh mì ăn với trứng ốp lết)</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000005-n"/>
     </Synset>
-    <Synset id="vietnet-food-00000112-n" ili="oewn-07875559-n">
-      <Definition>nước đường có pha thuốc hoặc nước hoa quả để làm dược phẩm hoặc đồ giải khát</Definition>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000113-n"/>
-    </Synset>
     <Synset id="vietnet-food-00000114-n" ili="oewn-07882699-n">
       <Definition>nem rán</Definition>
       <Example>ăn bún với nem</Example>
@@ -6355,53 +6558,12 @@
       <Definition>1 nỏ</Definition>
       <Example>&quot;Tay cầm tên bạc ná vàng, Lăm le muốn bắn phượng hoàng trên cây.&quot; (Cdao)</Example>
     </Synset>
-    <Synset id="vietnet-food-00000142-n" ili="oewn-07945238-n">
-      <Definition>nước giải khát mùi thơm, vị ngọt</Definition>
-      <Example>uống xá xị chai nước ngọt xá xị</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000141-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000143-n" ili="oewn-07949081-n">
-      <Definition>chè sản xuất từ lá chè già băm và phơi khô</Definition>
-      <Example>pha một ấm chè mạn</Example>
-      <Example>pha trà uống trà trà sen (trà ướp hương sen)</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000072-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000145-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000146-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000144-n" ili="oewn-07949514-n">
-      <Definition>lá chè già mới hái, dùng để nấu nước uống</Definition>
-      <Example>bát nước chè xanh</Example>
-    </Synset>
-    <Synset id="vietnet-food-00000145-n" ili="oewn-07950770-n">
-      <Definition>chè sản xuất từ búp chè đã được ủ lên men, nước có màu hung đỏ, vị thơm dịu</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000143-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000146-n" ili="oewn-07951392-n">
-      <Definition>chè sản xuất từ búp chè không ủ lên men, cánh nhỏ, nước xanh, có hương thơm [nguyên sản xuất ở Trung Quốc]</Definition>
-      <Example>&quot;Hương chè tàu thơm ngát thoảng lên làm Bính ngạc nhiên (...)&quot; (Nguyên Hồng; 1)</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000143-n"/>
-    </Synset>
     <Synset id="vietnet-food-00000147-n" ili="oewn-07951744-n">
       <Definition>nước lã</Definition>
       <Example>đau bụng vì uống nước lạnh</Example>
       <Example>giao thông đường thuỷ</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000001-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-00000148-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000148-n" ili="oewn-07952503-n">
-      <Definition>nước dùng cho việc ăn uống hằng ngày</Definition>
-      <Example>bể nước ăn &quot;Chiếc lu đựng nước bị mảnh đại bác va bể thêm một mảng, chừ phải kê nghiêng để có nước ăn trong nhà.&quot; (Phan Văn Tại; 1)</Example>
-      <Example>nấu ăn bằng nước lọc bể nước lọc</Example>
-      <Example>uống một cốc nước lọc</Example>
-      <Example>nguồn nước sạch người dân được dùng nước sạch chương trình nước sạch ở nông thôn</Example>
-      <Example>uống thuốc với nước trắng</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000147-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000149-n"/>
-    </Synset>
-    <Synset id="vietnet-food-00000149-n" ili="oewn-07952985-n">
-      <Definition>nước ở dưới đất, có chứa nhiều chất khí và ion của các nguyên tố hoá học và hợp chất của chúng</Definition>
-      <Example>suối nước khoáng nước khoáng đóng chai</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000148-n"/>
     </Synset>
     <Synset id="vietnet-food-00000150-n" ili="oewn-14606896-n">
       <Definition>chất chỉ cần một lượng rất nhỏ, nhưng có tác dụng lớn đến sự phát triển của cơ thể</Definition>
