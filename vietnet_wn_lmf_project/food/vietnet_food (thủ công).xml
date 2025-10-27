@@ -15,7 +15,6 @@
       <Definition> thứ có chứa chất dinh dưỡng và có thể tiêu hóa được, dùng để nuôi sống con người và động vật, nói chung.</Definition>
       <Example> chế biến thức ăn</Example>
       <Example> cỏ là nguồn thức ăn chính của trâu bò</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000000-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-00000008-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-00000062-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-00000001-n" />
@@ -60,7 +59,6 @@
     <Synset id="vietnet-food-99999976-n" ili="">
       <Definition>sản phẩm nông nghiệp, như gạo, thịt, trứng, rau, hoa quả, v.v. [nói khái quát]</Definition>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000008-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-99999965-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999964-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999963-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999962-n"/>
@@ -1136,7 +1134,6 @@
       <Example>nước mắm tỏi</Example>
       <Example>bóc mấy tép tỏi</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-00000070-n"/>
-      <!-- <SynsetRelation relType="hyponym" target="vietnet-food-00000082-n"/> -->
     </Synset>
     <!-- *******{Lv4. ớt}******** -->
     <LexicalEntry id="vietnet-food-99999889">
@@ -1435,7 +1432,6 @@
       <SynsetRelation relType="hyponym" target="vietnet-food-99999858-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999857-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999855-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-99999854-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999852-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999851-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999850-n"/>
@@ -3048,7 +3044,6 @@
       <Example>đồ ăn thức uống</Example>
       <Example>mùa nào thức ấy</Example>
       <Example>"Trong phiên chợ tết (...) những hàng được bày nhiều nhất trong mọi gian, phần nhiều lại là những thức xa xỉ." (Nguyễn Tuân; 32)</Example>
-      <SynsetRelation relType="hypernym" target="vietnet-food-00000000-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-99999997-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-99999996-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-99999995-n" />
@@ -3056,7 +3051,6 @@
       <SynsetRelation relType="hyponym" target="vietnet-food-99999993-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-99999992-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-99999991-n" />
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000003-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-00000006-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-00000016-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-00000017-n" />
@@ -3895,7 +3889,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-99999717-n" ili="">
       <Definition>chè nấu bằng mật với gạo nếp có pha vị gừng</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv4. chè con ong}******** -->
     <LexicalEntry id="vietnet-food-99999624">
@@ -3904,7 +3898,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-99999716-n" ili="oewn-07625449-n">
       <Definition>chè nấu bằng đường với xôi, hạt xôi nở to</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv4. chè đậu đãi}******** -->
     <LexicalEntry id="vietnet-food-99999623">
@@ -3913,7 +3907,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-77777772-n" ili="">
       <Definition>chè nấu bằng đường trắng với đậu xanh đãi sạch vỏ</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv4. chè đường}******** -->
     <LexicalEntry id="vietnet-food-99999622">
@@ -3922,7 +3916,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-77777773-n" ili="">
       <Definition>chè nấu bằng đường trắng với bột nếp hoặc bột đao, thường ăn với xôi vò</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv4. chè hạt lựu}******** -->
     <LexicalEntry id="vietnet-food-99999621">
@@ -3931,7 +3925,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-99999713-n" ili="oewn-07635656-n">
       <Definition>chè nấu bằng đường với bột hoàng tinh hoặc bột sắn kết thành những hạt nhỏ như hạt lựu</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv4. chè hoa cau}******** -->
     <LexicalEntry id="vietnet-food-99999620">
@@ -3940,7 +3934,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-99999712-n" ili="">
       <Definition>chè đường có rắc đậu xanh đãi vỏ đã đồ chín</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv4. chè kho}******** -->
     <LexicalEntry id="vietnet-food-99999618">
@@ -3949,7 +3943,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-77777775-n" ili="">
       <Definition>chè nấu thật đặc bằng đường hay mật với đậu xanh rang</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv4. chè lam}******** -->
     <LexicalEntry id="vietnet-food-99999617">
@@ -3958,7 +3952,7 @@
     </LexicalEntry>
     <Synset id="vietnet-food-77777776-n" ili="oewn-07612936-n">
       <Definition>bánh ngọt làm bằng bột bỏng nếp ngào với mật, có pha nước gừng</Definition>
-      <SynsetRelation relType="hypernym" target="vietnet-food-99999718-n"/>
+      <SynsetRelation relType="hypernym" target="vietnet-food-00000034-n"/>
     </Synset>
     <!-- *******{Lv3. xu xoa}******** -->
     <LexicalEntry id="vietnet-food-99999616">
@@ -4945,8 +4939,6 @@
       <SynsetRelation relType="hyponym" target="vietnet-food-99999619-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999618-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999617-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-99999616-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-99999615-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999589-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999583-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999580-n"/>
@@ -5868,7 +5860,6 @@
       <Definition>nước giải khát có vị ngọt, nói chung</Definition>
       <Example>mua mấy lon nước ngọt nhà máy sản xuất bia và nước ngọt</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-99999998-n" />
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000142-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999530-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999529-n"/>
     </Synset>
@@ -6031,7 +6022,6 @@
       <Example>"(...) ông cứ ấp a ấp úng mãi khiến ban tổ chức phải lấp lỗ trống bằng cách cho đem rượu bia, bánh trái ra." (Lê Văn Thảo; 12)</Example>
       <SynsetRelation relType="hypernym" target="vietnet-food-99999998-n" />
       <SynsetRelation relType="hyponym" target="vietnet-food-99999518-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-00000126-n"/>
     </Synset>
     <!-- *******{Lv3. rượu}******** -->
     <LexicalEntry id="vietnet-food-99999399">
