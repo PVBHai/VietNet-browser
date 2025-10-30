@@ -213,7 +213,7 @@
     </Synset>
     <!-- *******{Lv5. nạm}******** -->
     <LexicalEntry id="vietnet-food-99999939">
-      <Lemma writtenForm="bì" partOfSpeech="n"/>
+      <Lemma writtenForm="nạm" partOfSpeech="n"/>
       <Sense id="vietnet-food-99999939-1" synset="vietnet-food-99999948-n" confidenceScore="1.0"/>
     </LexicalEntry>
     <Synset id="vietnet-food-99999948-n" ili="">
@@ -5093,7 +5093,6 @@
       <SynsetRelation relType="hyponym" target="vietnet-food-99999592-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999591-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999590-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-99999589-n"/>
     </Synset>
     <!-- *******{Lv4. chuối ba lùn}******** -->
     <LexicalEntry id="vietnet-food-99999492">
@@ -6053,7 +6052,6 @@
       <SynsetRelation relType="hyponym" target="vietnet-food-99999502-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999501-n"/>
       <SynsetRelation relType="hyponym" target="vietnet-food-99999500-n"/>
-      <SynsetRelation relType="hyponym" target="vietnet-food-99999499-n"/>
     </Synset>
     <!-- *******{Lv4. rượu cẩm}******** -->
     <LexicalEntry id="vietnet-food-99999398">
@@ -6140,11 +6138,11 @@
       <Sense id="vietnet-food-44444441-1" synset="vietnet-food-99999512-n" confidenceScore="1.0"/>
     </LexicalEntry>
     <LexicalEntry id="vietnet-food-44444440">
-      <Lemma writtenForm="rượu đế" partOfSpeech="n"/>
+      <Lemma writtenForm="ba xị đế" partOfSpeech="n"/>
       <Sense id="vietnet-food-44444440-1" synset="vietnet-food-99999512-n" confidenceScore="1.0"/>
     </LexicalEntry>
     <LexicalEntry id="vietnet-food-44444439">
-      <Lemma writtenForm="rượu đế" partOfSpeech="n"/>
+      <Lemma writtenForm="rượu trắng" partOfSpeech="n"/>
       <Sense id="vietnet-food-44444439-1" synset="vietnet-food-99999512-n" confidenceScore="1.0"/>
     </LexicalEntry>
     <Synset id="vietnet-food-99999512-n" ili="">
